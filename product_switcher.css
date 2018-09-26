@@ -6,9 +6,10 @@
 #nav_productswitcher_menu ul {
     display: grid;
     grid-gap: 1px;
-    grid-template-columns: repeat(3, 250px);
+    /*grid-template-columns: repeat(3, 250px);*/
     grid-template-rows: repeat(8, 50px);
     grid-auto-flow: column;
+    grid-auto-columns: 210px;
 }
 
 #nav_productswitcher_menu.tiles li {
