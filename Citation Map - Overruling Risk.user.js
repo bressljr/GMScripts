@@ -83,15 +83,16 @@
                         $("path.riskline:first, path.riskline:last").attr("opacity", 0);
                     }
                 } else {
-
+                    if($(this).find("input:checkbox").is(":checked")) {
+                        $("path.riskline").not(':first').not(':last').attr("opacity", 1);
+                    } else {
+                        $("path.riskline").not(':first').not(':last').attr("opacity", 0);
+                    }
                 }
              }
              e.stopPropagation();
              return false();
          });
-
-
-
      }
 
      function addDottedLines() {
@@ -147,6 +148,7 @@
     addGlobalStyle('.coretermslist h3, .coretermslist li label { font-family:helvetica; font-size:inherit; padding:2px; ');
     addGlobalStyle('.coretermslist li label span { background:#ffc550; padding:0 4px; display:inline-block; ');
     addGlobalStyle('.citationmap .results-list>.wrapper li.selected { background:transparent; }');
+    addGlobalStyle('.citationmap [data-menu="viewtray"] button { display:none !important; }');
 
 
 
