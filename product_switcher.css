@@ -58,5 +58,9 @@
 }
 
 #nav_productswitcher_menu li a:hover {
-    background-color: #0068AE;
+    background-color: #6d6e71;
+}
+
+#nav_productswitcher_menu li a.active {
+    background-color: #0067b1;
 }
