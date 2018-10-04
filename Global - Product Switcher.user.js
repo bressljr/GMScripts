@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  Udate Product Switcher
 // @author       Jason
-// @resource     psCSS https://raw.githubusercontent.com/bressljr/GMScripts/master/product_switcher.css?v4
+// @resource     psCSS https://raw.githubusercontent.com/bressljr/GMScripts/master/product_switcher.css?v5
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js
 // @match        https://advance.lexis.com/*
@@ -42,13 +42,18 @@
     };
 
 
-     waitForKeyElements("#nav_productswitcher_menu a", initPS, true);
+     waitForKeyElements("#nav_productswitcher_menu a", initPS, false);
 
 
 
      function initPS() {
 
+        var pagemodel = Injector.get("page.model");
+        var mfid = getValues(pagemodel, "masterfeatureid");
+        console.log(mfid[0]);
+
          $("#nav_productswitcher_menu a").each(function(){
+              $(this).attr("id") == mfid[0] && $(this).addClass("active");
               $(this).find('span.text').html(switcherArray[$(this).attr("id")]);
          });
 
@@ -60,6 +65,21 @@
     function asc_sort(a, b){
        return ($(b).text()) < ($(a).text()) ? 1 : -1;
     }
+
+
+    function getValues(obj, key) {
+        var objects = [];
+        for (var i in obj) {
+            if (!obj.hasOwnProperty(i)) continue;
+            if (typeof obj[i] == 'object') {
+                objects = objects.concat(getValues(obj[i], key));
+            } else if (i == key) {
+                objects.push(obj[i]);
+            }
+        }
+        return objects;
+    }
+
 })();
 
 
