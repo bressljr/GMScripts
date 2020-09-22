@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         USF Update Behavior
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Testing various changes to form update post court selection
 // @author       You
 // @updateURL    https://github.com/bressljr/GMScripts/raw/master/USF%20Update%20Behavior.user.js
@@ -37,6 +37,7 @@
       }
 
       fieldset {
+         background:red !important;
          border: 0;
          padding: 0;
          margin: 0;
