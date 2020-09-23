@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         USF Update Behavior
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      2.0
 // @description  Testing various changes to form update post court selection
 // @author       You
 // @updateURL    https://github.com/bressljr/GMScripts/raw/master/USF%20Update%20Behavior.user.js
+// @downloadURL  https://github.com/bressljr/GMScripts/raw/master/USF%20Update%20Behavior.user.js
 // @match        https://cert7-advance.lexis.com/*
 // @match        https://advance.lexis.com/*
 // @grant    	 GM_addStyle
