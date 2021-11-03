@@ -3,7 +3,7 @@
     {
         "pguid": "urn:krm:pvi-460B269BFD3B4457A1C1D9EC2F5F7E47",
         "name": "United States",
-        "pathname": "United States",
+        "pathname": "United States (All Federal)",
         "abbreviation": "U.S. Fed",
         "abbreviation2": "US Fed",
         "code": "33a3ef2a5b4cf8f1cafa5539f24b41dd",
@@ -13,7 +13,7 @@
     {
         "pguid": "urn:entity:jb-100000366",
         "name": "Jud. Panel Multidistrict Litigation",
-        "pathname": "United States / Jud. Panel Multidistrict Litigation",
+        "pathname": "U.S. / Jud. Panel Multidistrict Litigation",
         "abbreviation": "J.P.M.L",
         "abbreviation2": "JPML",
         "code": "0d83829b032763ecccebb8ddb37c4c5e",
@@ -37,7 +37,7 @@
     {
         "pguid": "urn:propertyValueItem:0A0FF9275ED9482FA3B5215CF3B2CD3F",
         "name": "Mil. Justice",
-        "pathname": "United States / Mil. Justice",
+        "pathname": "U.S. / Mil. Justice",
         "code": "039e07c7b18b123225900c7e3e300f8c",
         "score": 1,
         "parentpguid": "urn:krm:pvi-460B269BFD3B4457A1C1D9EC2F5F7E47"
@@ -45,7 +45,7 @@
     {
         "pguid": "urn:propertyValueItem:7B03D7924875445C82513E5CF815E5D1",
         "name": "Military Branches Criminal Appeals",
-        "pathname": "United States / Mil. Justice / Military Branches Criminal Appeals",
+        "pathname": "U.S. / Mil. Justice / Military Branches Criminal Appeals",
         "abbreviation": "C.M.A.",
         "abbreviation2": "CMA",
         "code": "2074381010c50e1258ace33ceedefd35",
@@ -55,7 +55,7 @@
     {
         "pguid": "urn:propertyValueItem:D84A8472D0F748B19726A8BC8BFEBB77",
         "name": "U.S. Bankruptcy Courts Adversary Proceeding",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding",
+        "pathname": "U.S. Bankruptcy Courts Adversary Proceeding (all)",
         "abbreviation": "B.A.P.",
         "abbreviation2": "BAP",
         "selectedname": "U.S. Bankruptcy Courts Adversary Proceeding (United States)",
@@ -70,7 +70,7 @@
     {
         "pguid": "urn:propertyValueItem:9FA08EB924164357BA86B56C120CCDE3",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Alabama",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Alabama",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Alabama (all)",
         "abbreviation": "B.A.P. Ala.",
         "abbreviation2": "BAP Ala",
         "code": "fb154faa570ee29dedf9b7ade3539ec7",
@@ -84,7 +84,7 @@
     {
         "pguid": "urn:entity:jb-100024532",
         "name": "Alabama Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Alabama / Alabama Middle",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Alabama / Alabama Middle",
         "abbreviation": "B.A.P. M.D. Ala.",
         "abbreviation2": "BAP MD Ala",
         "selectedname": "Alabama Middle (Bankruptcy Adversary Proceeding)",
@@ -109,7 +109,7 @@
     {
         "pguid": "urn:entity:jb-100024568",
         "name": "Alabama Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Alabama / Alabama Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Alabama / Alabama Northern",
         "abbreviation": "B.A.P. N.D. Ala.",
         "abbreviation2": "BAP ND Ala",
         "selectedname": "Alabama Northern (Bankruptcy Adversary Proceeding)",
@@ -134,7 +134,7 @@
     {
         "pguid": "urn:entity:jb-100024534",
         "name": "Alabama Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Alabama / Alabama Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Alabama / Alabama Southern",
         "abbreviation": "B.A.P. S.D. Ala.",
         "abbreviation2": "BAP SD Ala",
         "selectedname": "Alabama Southern (Bankruptcy Adversary Proceeding)",
@@ -159,7 +159,7 @@
     {
         "pguid": "urn:entity:jb-100024508",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Alaska",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Alaska",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Alaska",
         "abbreviation": "B.A.P. D. Alaska",
         "abbreviation2": "BAP D Alaska",
         "code": "be1f4ef03965b738b66ffbd64765127f",
@@ -183,7 +183,7 @@
     {
         "pguid": "urn:entity:jb-100024680",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Arizona",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Arizona",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Arizona",
         "abbreviation": "B.A.P. D. Ariz.",
         "abbreviation2": "BAP D Ariz",
         "code": "90bcf22fc2d0da5664e20eb1f6aea89c",
@@ -207,7 +207,7 @@
     {
         "pguid": "urn:propertyValueItem:0C779E4DEEBC4C028A03EE772CBB978D",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Arkansas",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Arkansas",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Arkansas (all)",
         "abbreviation": "B.A.P. Ark.",
         "abbreviation2": "BAP Ark",
         "code": "47393695347a026573c8f5a4465d5062",
@@ -221,7 +221,7 @@
     {
         "pguid": "urn:entity:jb-100024648",
         "name": "Arkansas Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Arkansas / Arkansas Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Arkansas / Arkansas Eastern",
         "abbreviation": "B.A.P. E.D. Ariz.",
         "abbreviation2": "BAP ED Ariz",
         "selectedname": "Arkansas Eastern (Bankruptcy Adversary Proceeding)",
@@ -246,7 +246,7 @@
     {
         "pguid": "urn:entity:jb-100024649",
         "name": "Arkansas Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Arkansas / Arkansas Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Arkansas / Arkansas Western",
         "abbreviation": "B.A.P. W.D. Ariz.",
         "abbreviation2": "BAP WD Ariz",
         "selectedname": "Arkansas Western (Bankruptcy Adversary Proceeding)",
@@ -271,7 +271,7 @@
     {
         "pguid": "urn:propertyValueItem:EFB9C953A7FF453FBCF036D9CCAB9C3B",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - California",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - California",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - California (all)",
         "abbreviation": "B.A.P. Cal.",
         "abbreviation2": "BAP Cal",
         "code": "c831935ee41a0686f30665ff9893c825",
@@ -285,7 +285,7 @@
     {
         "pguid": "urn:entity:jb-100024762",
         "name": "California Central",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - California / California Central",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - California / California Central",
         "abbreviation": "B.A.P. C.D. Cal.",
         "abbreviation2": "BAP CD Cal",
         "selectedname": "California Central (Bankruptcy Adversary Proceeding)",
@@ -310,7 +310,7 @@
     {
         "pguid": "urn:entity:jb-100024683",
         "name": "California Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - California / California Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - California / California Eastern",
         "abbreviation": "B.A.P. E.D. Cal.",
         "abbreviation2": "BAP ED Cal",
         "selectedname": "California Eastern (Bankruptcy Adversary Proceeding)",
@@ -335,7 +335,7 @@
     {
         "pguid": "urn:entity:jb-100024513",
         "name": "California Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - California / California Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - California / California Northern",
         "abbreviation": "B.A.P. N.D. Cal.",
         "abbreviation2": "BAP ND Cal",
         "selectedname": "California Northern (Bankruptcy Adversary Proceeding)",
@@ -360,7 +360,7 @@
     {
         "pguid": "urn:entity:jb-100024687",
         "name": "California Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - California / California Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - California / California Southern",
         "abbreviation": "B.A.P. S.D. Cal.",
         "abbreviation2": "BAP SD Cal",
         "selectedname": "California Southern (Bankruptcy Adversary Proceeding)",
@@ -385,7 +385,7 @@
     {
         "pguid": "urn:entity:jb-100024524",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Colorado",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Colorado",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Colorado",
         "abbreviation": "B.A.P. D. Colo.",
         "abbreviation2": "BAP D Colo",
         "code": "ee3cec0aadca0689af0fe1fb5cf0944d",
@@ -409,7 +409,7 @@
     {
         "pguid": "urn:entity:jb-100024697",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Connecticut",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Connecticut",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Connecticut",
         "abbreviation": "B.A.P. D. Conn.",
         "abbreviation2": "BAP D Conn",
         "code": "f323a99283ae35f6bc8c1110d7ce64a2",
@@ -433,7 +433,7 @@
     {
         "pguid": "urn:entity:jb-100024014",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Delaware",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Delaware",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Delaware",
         "abbreviation": "B.A.P. D. Del.",
         "abbreviation2": "BAP D Del",
         "code": "022fcdf9b92e277bd6c40ada929dad08",
@@ -457,7 +457,7 @@
     {
         "pguid": "urn:entity:jb-100024574",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - District of Columbia",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - District of Columbia",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - District of Columbia",
         "abbreviation": "B.A.P. D.D.C.",
         "abbreviation2": "BAP DDC",
         "code": "20dc71aa29feb4461e4ae42b38766167",
@@ -481,7 +481,7 @@
     {
         "pguid": "urn:propertyValueItem:8F8CECF9DC2945398D358B4F9C970A8F",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Florida",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Florida",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Florida (all)",
         "abbreviation": "B.A.P. Fla.",
         "abbreviation2": "BAP Fla",
         "code": "3ffee5fb7158a003882be3d1630a3ea8",
@@ -495,7 +495,7 @@
     {
         "pguid": "urn:entity:jb-100024570",
         "name": "Florida Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Florida / Florida Middle",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Florida / Florida Middle",
         "abbreviation": "B.A.P. M.D. Fla.",
         "abbreviation2": "BAP MD Fla",
         "selectedname": "Florida Middle (Bankruptcy Adversary Proceeding)",
@@ -520,7 +520,7 @@
     {
         "pguid": "urn:entity:jb-100024536",
         "name": "Florida Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Florida / Florida Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Florida / Florida Northern",
         "abbreviation": "B.A.P. N.D. Fla.",
         "abbreviation2": "BAP ND Fla",
         "selectedname": "Florida Northern (Bankruptcy Adversary Proceeding)",
@@ -545,7 +545,7 @@
     {
         "pguid": "urn:entity:jb-100024579",
         "name": "Florida Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Florida / Florida Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Florida / Florida Southern",
         "abbreviation": "B.A.P. S.D. Fla.",
         "abbreviation2": "BAP SD Fla",
         "selectedname": "Florida Southern (Bankruptcy Adversary Proceeding)",
@@ -570,7 +570,7 @@
     {
         "pguid": "urn:propertyValueItem:11491BFCCA654BA4BCFF618E5FB313C0",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Georgia",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Georgia",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Georgia (all)",
         "abbreviation": "B.A.P. Ga.",
         "abbreviation2": "BAP Ga",
         "code": "30fd78145232dc8efce73cd97d7ff73d",
@@ -584,7 +584,7 @@
     {
         "pguid": "urn:entity:jb-100024538",
         "name": "Georgia Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Georgia / Georgia Middle",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Georgia / Georgia Middle",
         "abbreviation": "B.A.P. M.D. Ga.",
         "abbreviation2": "BAP MD Ga",
         "selectedname": "Georgia Middle (Bankruptcy Adversary Proceeding)",
@@ -609,7 +609,7 @@
     {
         "pguid": "urn:entity:jb-100024588",
         "name": "Georgia Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Georgia / Georgia Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Georgia / Georgia Northern",
         "abbreviation": "B.A.P. N.D. Ga.",
         "abbreviation2": "BAP ND Ga",
         "selectedname": "Georgia Northern (Bankruptcy Adversary Proceeding)",
@@ -634,7 +634,7 @@
     {
         "pguid": "urn:entity:jb-100024540",
         "name": "Georgia Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Georgia / Georgia Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Georgia / Georgia Southern",
         "abbreviation": "B.A.P. S.D. Ga.",
         "abbreviation2": "BAP SD Ga",
         "selectedname": "Georgia Southern (Bankruptcy Adversary Proceeding)",
@@ -659,7 +659,7 @@
     {
         "pguid": "urn:entity:jb-100024628",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Guam",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Guam",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Guam",
         "abbreviation": "B.A.P. D. Guam",
         "abbreviation2": "BAP D Guam",
         "code": "b1bece4be83b4c69ba1dfcedb6ebfd0d",
@@ -683,7 +683,7 @@
     {
         "pguid": "urn:entity:jb-100024515",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Hawaii",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Hawaii",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Hawaii",
         "abbreviation": "B.A.P. D. Haw.",
         "abbreviation2": "BAP D Haw",
         "code": "270c87e24c1b35110fb8a699444751d3",
@@ -707,7 +707,7 @@
     {
         "pguid": "urn:entity:jb-100024690",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Idaho",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Idaho",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Idaho",
         "abbreviation": "B.A.P. D. Idaho",
         "abbreviation2": "BAP D Idaho",
         "code": "1f6a30287a465033069374f04786238d",
@@ -731,7 +731,7 @@
     {
         "pguid": "urn:propertyValueItem:A8530340E7034CFFA56272E8E1B3E01F",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Illinois",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Illinois",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Illinois (all)",
         "abbreviation": "B.A.P. Ill.",
         "abbreviation2": "BAP Ill",
         "code": "a8d56cd00be15eae1673b8b5671505de",
@@ -745,7 +745,7 @@
     {
         "pguid": "urn:entity:jb-100024381",
         "name": "Illinois Central",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Illinois / Illinois Central",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Illinois / Illinois Central",
         "abbreviation": "B.A.P. C.D. Ill.",
         "abbreviation2": "BAP CD Ill",
         "selectedname": "Illinois Central (Bankruptcy Adversary Proceeding)",
@@ -770,7 +770,7 @@
     {
         "pguid": "urn:entity:jb-100024658",
         "name": "Illinois Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Illinois / Illinois Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Illinois / Illinois Northern",
         "abbreviation": "B.A.P. N.D. Ill.",
         "abbreviation2": "BAP ND Ill",
         "selectedname": "Illinois Northern (Bankruptcy Adversary Proceeding)",
@@ -795,7 +795,7 @@
     {
         "pguid": "urn:entity:jb-100024441",
         "name": "Illinois Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Illinois / Illinois Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Illinois / Illinois Southern",
         "abbreviation": "B.A.P. S.D. Ill.",
         "abbreviation2": "BAP SD Ill",
         "selectedname": "Illinois Southern (Bankruptcy Adversary Proceeding)",
@@ -820,7 +820,7 @@
     {
         "pguid": "urn:propertyValueItem:B44497C5C7A84820BE6A89D657C41C6E",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Indiana",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Indiana",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Indiana (all)",
         "abbreviation": "B.A.P. Ind.",
         "abbreviation2": "BAP Ind",
         "code": "986a1369f328e9e2e7bf16fecd1b4fa0",
@@ -834,7 +834,7 @@
     {
         "pguid": "urn:entity:jb-100024663",
         "name": "Indiana Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Indiana / Indiana Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Indiana / Indiana Northern",
         "abbreviation": "B.A.P. N.D. Ind.",
         "abbreviation2": "BAP ND Ind",
         "selectedname": "Indiana Northern (Bankruptcy Adversary Proceeding)",
@@ -859,7 +859,7 @@
     {
         "pguid": "urn:entity:jb-100024481",
         "name": "Indiana Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Indiana / Indiana Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Indiana / Indiana Southern",
         "abbreviation": "B.A.P. S.D. Ind.",
         "abbreviation2": "BAP SD Ind",
         "selectedname": "Indiana Southern (Bankruptcy Adversary Proceeding)",
@@ -884,7 +884,7 @@
     {
         "pguid": "urn:propertyValueItem:5EB0689556AF4BFD9A8C8F4EA08BAD25",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Iowa",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Iowa",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Iowa (all)",
         "abbreviation": "B.A.P. Iowa",
         "abbreviation2": "BAP Iowa",
         "code": "d1e85e0be03c1e0ef75cdcc11c50b8c5",
@@ -898,7 +898,7 @@
     {
         "pguid": "urn:entity:jb-100024504",
         "name": "Iowa Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Iowa / Iowa Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Iowa / Iowa Northern",
         "abbreviation": "B.A.P. N.D. Iowa",
         "abbreviation2": "BAP ND Iowa",
         "selectedname": "Iowa Northern (Bankruptcy Adversary Proceeding)",
@@ -923,7 +923,7 @@
     {
         "pguid": "urn:entity:jb-100024671",
         "name": "Iowa Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Iowa / Iowa Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Iowa / Iowa Southern",
         "abbreviation": "B.A.P. S.D. Iowa",
         "abbreviation2": "BAP SD Iowa",
         "selectedname": "Iowa Southern (Bankruptcy Adversary Proceeding)",
@@ -948,7 +948,7 @@
     {
         "pguid": "urn:entity:jb-100024560",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Kansas",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Kansas",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Kansas",
         "abbreviation": "B.A.P. D. Kan.",
         "abbreviation2": "BAP D Kan",
         "code": "cb7959e8b7db0367ae41bd6f660fbe3a",
@@ -972,7 +972,7 @@
     {
         "pguid": "urn:propertyValueItem:60FA5BFFDF834976A02FBC71ADB55497",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Kentucky",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Kentucky",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Kentucky (all)",
         "abbreviation": "B.A.P. Ky.",
         "abbreviation2": "BAP Ky",
         "code": "328cc479dc9b23c67d1b84db112ae43c",
@@ -986,7 +986,7 @@
     {
         "pguid": "urn:entity:jb-100024201",
         "name": "Kentucky Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Kentucky / Kentucky Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Kentucky / Kentucky Eastern",
         "abbreviation": "B.A.P. E.D. Ky.",
         "abbreviation2": "BAP ED Ky",
         "selectedname": "Kentucky Eastern (Bankruptcy Adversary Proceeding)",
@@ -1011,7 +1011,7 @@
     {
         "pguid": "urn:entity:jb-100024640",
         "name": "Kentucky Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Kentucky / Kentucky Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Kentucky / Kentucky Western",
         "abbreviation": "B.A.P. W.D. Ky.",
         "abbreviation2": "BAP WD Ky",
         "selectedname": "Kentucky Western (Bankruptcy Adversary Proceeding)",
@@ -1036,7 +1036,7 @@
     {
         "pguid": "urn:propertyValueItem:EB9F8AC83C3A492A8CEAC1E7E73DB915",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Louisiana",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Louisiana",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Louisiana (all)",
         "abbreviation": "B.A.P. La.",
         "abbreviation2": "BAP La",
         "code": "fdb1416c900106fcb5920939bbcec849",
@@ -1050,7 +1050,7 @@
     {
         "pguid": "urn:entity:jb-100024113",
         "name": "Louisiana Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Louisiana / Louisiana Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Louisiana / Louisiana Eastern",
         "abbreviation": "B.A.P. E.D. La.",
         "abbreviation2": "BAP ED La",
         "selectedname": "Louisiana Eastern (Bankruptcy Adversary Proceeding)",
@@ -1075,7 +1075,7 @@
     {
         "pguid": "urn:entity:jb-100024546",
         "name": "Louisiana Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Louisiana / Louisiana Middle",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Louisiana / Louisiana Middle",
         "abbreviation": "B.A.P. M.D. La.",
         "abbreviation2": "BAP MD La",
         "selectedname": "Louisiana Middle (Bankruptcy Adversary Proceeding)",
@@ -1100,7 +1100,7 @@
     {
         "pguid": "urn:entity:jb-100024612",
         "name": "Louisiana Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Louisiana / Louisiana Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Louisiana / Louisiana Western",
         "abbreviation": "B.A.P. W.D. La.",
         "abbreviation2": "BAP WD La",
         "selectedname": "Louisiana Western (Bankruptcy Adversary Proceeding)",
@@ -1125,7 +1125,7 @@
     {
         "pguid": "urn:entity:jb-100024577",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Maine",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Maine",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Maine",
         "abbreviation": "B.A.P. D. Me.",
         "abbreviation2": "BAP D Me",
         "code": "174ee83aa3862980983e43edcbe0bcc2",
@@ -1149,7 +1149,7 @@
     {
         "pguid": "urn:entity:jb-100024018",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Maryland",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Maryland",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Maryland",
         "abbreviation": "B.A.P. D. Md.",
         "abbreviation2": "BAP D Md",
         "code": "c0e791f3d1836c1b72e370b9b1288a39",
@@ -1173,7 +1173,7 @@
     {
         "pguid": "urn:entity:jb-100024598",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Massachusetts",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Massachusetts",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Massachusetts",
         "abbreviation": "B.A.P. D. Mass",
         "abbreviation2": "BAP D Mass",
         "code": "9bf959971d59bc8f40010d00e8994ee0",
@@ -1197,7 +1197,7 @@
     {
         "pguid": "urn:propertyValueItem:D8838175D8E84D3FA299CC9834C261D8",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Michigan",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Michigan",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Michigan (all)",
         "abbreviation": "B.A.P. Mich.",
         "abbreviation2": "BAP Mich",
         "code": "6a595a5b29040256f2381e54b492478f",
@@ -1211,7 +1211,7 @@
     {
         "pguid": "urn:entity:jb-100024241",
         "name": "Michigan Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Michigan / Michigan Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Michigan / Michigan Eastern",
         "abbreviation": "B.A.P. E.D. Mich.",
         "abbreviation2": "BAP ED Mich",
         "selectedname": "Michigan Eastern (Bankruptcy Adversary Proceeding)",
@@ -1236,7 +1236,7 @@
     {
         "pguid": "urn:entity:jb-100024609",
         "name": "Michigan Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Michigan / Michigan Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Michigan / Michigan Western",
         "abbreviation": "B.A.P. W.D. Mich.",
         "abbreviation2": "BAP WD Mich",
         "selectedname": "Michigan Western (Bankruptcy Adversary Proceeding)",
@@ -1261,7 +1261,7 @@
     {
         "pguid": "urn:entity:jb-100024506",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Minnesota",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Minnesota",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Minnesota",
         "abbreviation": "B.A.P. D. Minn.",
         "abbreviation2": "BAP D Minn",
         "code": "b71e9c5b278385cd67a9967f74f358db",
@@ -1285,7 +1285,7 @@
     {
         "pguid": "urn:propertyValueItem:55A71C529E204A7780BA767D8BE2E37C",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Mississippi",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Mississippi",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Mississippi (all)",
         "abbreviation": "B.A.P. Miss.",
         "abbreviation2": "BAP Miss",
         "code": "858399f5a12325315eb7ab08903cebdf",
@@ -1299,7 +1299,7 @@
     {
         "pguid": "urn:entity:jb-100024172",
         "name": "Mississippi Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Mississippi / Mississippi Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Mississippi / Mississippi Northern",
         "abbreviation": "B.A.P. N.D. Miss.",
         "abbreviation2": "BAP ND Miss",
         "selectedname": "Mississippi Northern (Bankruptcy Adversary Proceeding)",
@@ -1324,7 +1324,7 @@
     {
         "pguid": "urn:entity:jb-100024619",
         "name": "Mississippi Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Mississippi / Mississippi Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Mississippi / Mississippi Southern",
         "abbreviation": "B.A.P. S.D. Miss.",
         "abbreviation2": "BAP SD Miss",
         "selectedname": "Mississippi Southern (Bankruptcy Adversary Proceeding)",
@@ -1349,7 +1349,7 @@
     {
         "pguid": "urn:propertyValueItem:B7D2F9B1F7C34DFF9F1EEC6A15EBC9B8",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Missouri",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Missouri",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Missouri (all)",
         "abbreviation": "B.A.P. Mo.",
         "abbreviation2": "BAP Mo",
         "code": "8a95f1a5f0f7a7e47b47eafe20090dbd",
@@ -1363,7 +1363,7 @@
     {
         "pguid": "urn:entity:jb-100024673",
         "name": "Missouri Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Missouri / Missouri Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Missouri / Missouri Eastern",
         "abbreviation": "B.A.P. E.D. Mo.",
         "abbreviation2": "BAP ED Mo",
         "selectedname": "Missouri Eastern (Bankruptcy Adversary Proceeding)",
@@ -1388,7 +1388,7 @@
     {
         "pguid": "urn:entity:jb-500000106",
         "name": "Missouri Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Missouri / Missouri Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Missouri / Missouri Western",
         "abbreviation": "B.A.P. W.D. Mo.",
         "abbreviation2": "BAP WD Mo",
         "selectedname": "Missouri Western (Bankruptcy Adversary Proceeding)",
@@ -1413,7 +1413,7 @@
     {
         "pguid": "urn:entity:jb-100024517",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Montana",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Montana",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Montana",
         "abbreviation": "B.A.P. D. Mont.",
         "abbreviation2": "BAP D Mont",
         "code": "25518addb05a5290ca87dd48b6046dd6",
@@ -1437,7 +1437,7 @@
     {
         "pguid": "urn:entity:jb-100024676",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Nebraska",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Nebraska",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Nebraska",
         "abbreviation": "B.A.P. D. Neb.",
         "abbreviation2": "BAP D Neb",
         "code": "7108a9897099c5b9305295e12fa03b21",
@@ -1461,7 +1461,7 @@
     {
         "pguid": "urn:entity:jb-100024694",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Nevada",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Nevada",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Nevada",
         "abbreviation": "B.A.P. D. Nev.",
         "abbreviation2": "BAP D Nev",
         "code": "f86a347a276659ee2fc233a8c54a5963",
@@ -1485,7 +1485,7 @@
     {
         "pguid": "urn:entity:jb-100024542",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - New Hampshire",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New Hampshire",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New Hampshire",
         "abbreviation": "B.A.P. D.N.H.",
         "abbreviation2": "BAP DNH",
         "code": "9d3b0695d03d0b0707e33b181057177b",
@@ -1509,7 +1509,7 @@
     {
         "pguid": "urn:entity:jb-100024580",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - New Jersey",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New Jersey",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New Jersey",
         "abbreviation": "B.A.P. D.N.J.",
         "abbreviation2": "BAP DNJ",
         "code": "c71cb1fa13d90b54ac9e77a9b55dc201",
@@ -1533,7 +1533,7 @@
     {
         "pguid": "urn:entity:jb-100024526",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - New Mexico",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New Mexico",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New Mexico",
         "abbreviation": "B.A.P. D.N.M.",
         "abbreviation2": "BAP DNM",
         "code": "27710d6df8774e6a6e8e4e36ead77274",
@@ -1557,7 +1557,7 @@
     {
         "pguid": "urn:propertyValueItem:98E28FBAE3DD4BF3BFA5A2BB9120265F",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - New York",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New York",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New York (all)",
         "abbreviation": "B.A.P. N.Y.",
         "abbreviation2": "BAP NY",
         "code": "b9334a484780f70dfd97038f62602a79",
@@ -1571,7 +1571,7 @@
     {
         "pguid": "urn:entity:jb-100024548",
         "name": "New York Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New York / New York Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New York / New York Eastern",
         "abbreviation": "B.A.P. E.D.N.Y.",
         "abbreviation2": "BAP EDNY",
         "selectedname": "New York Eastern (Bankruptcy Adversary Proceeding)",
@@ -1596,7 +1596,7 @@
     {
         "pguid": "urn:entity:jb-100024699",
         "name": "New York Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New York / New York Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New York / New York Northern",
         "abbreviation": "B.A.P. N.D.N.Y.",
         "abbreviation2": "BAP NDNY",
         "selectedname": "New York Northern (Bankruptcy Adversary Proceeding)",
@@ -1621,7 +1621,7 @@
     {
         "pguid": "urn:entity:jb-100024550",
         "name": "New York Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New York / New York Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New York / New York Southern",
         "abbreviation": "B.A.P. S.D.N.Y.",
         "abbreviation2": "BAP SDNY",
         "selectedname": "New York Southern (Bankruptcy Adversary Proceeding)",
@@ -1646,7 +1646,7 @@
     {
         "pguid": "urn:entity:jb-100024701",
         "name": "New York Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - New York / New York Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - New York / New York Western",
         "abbreviation": "B.A.P. W.D.N.Y.",
         "abbreviation2": "BAP WDNY",
         "selectedname": "New York Western (Bankruptcy Adversary Proceeding)",
@@ -1671,7 +1671,7 @@
     {
         "pguid": "urn:propertyValueItem:E4EAD984027D4B9D995C16503735B604",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - North Carolina",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - North Carolina",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - North Carolina (all)",
         "abbreviation": "B.A.P. N.C.",
         "abbreviation2": "BAP NC",
         "code": "6902998703fb39feb4d5d3436176fbe4",
@@ -1685,7 +1685,7 @@
     {
         "pguid": "urn:entity:jb-100024584",
         "name": "North Carolina Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - North Carolina / North Carolina Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - North Carolina / North Carolina Eastern",
         "abbreviation": "B.A.P. E.D.N.C.",
         "abbreviation2": "BAP EDNC",
         "selectedname": "North Carolina Eastern (Bankruptcy Adversary Proceeding)",
@@ -1710,7 +1710,7 @@
     {
         "pguid": "urn:entity:jb-100024021",
         "name": "North Carolina Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - North Carolina / North Carolina Middle",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - North Carolina / North Carolina Middle",
         "abbreviation": "B.A.P. M.D.N.C.",
         "abbreviation2": "BAP MDNC",
         "selectedname": "North Carolina Middle (Bankruptcy Adversary Proceeding)",
@@ -1735,7 +1735,7 @@
     {
         "pguid": "urn:entity:jb-100024595",
         "name": "North Carolina Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - North Carolina / North Carolina Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - North Carolina / North Carolina Western",
         "abbreviation": "B.A.P. W.D.N.C.",
         "abbreviation2": "BAP WDNC",
         "selectedname": "North Carolina Western (Bankruptcy Adversary Proceeding)",
@@ -1760,7 +1760,7 @@
     {
         "pguid": "urn:entity:jb-100024556",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - North Dakota",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - North Dakota",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - North Dakota",
         "abbreviation": "B.A.P. D.N.D.",
         "abbreviation2": "BAP DND",
         "code": "85d123e7b64b93a47f3386b88a1b870c",
@@ -1784,7 +1784,7 @@
     {
         "pguid": "urn:propertyValueItem:2649D4BC13934E7DA0D4AF90AD0344C0",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Ohio",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Ohio",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Ohio (all)",
         "abbreviation": "B.A.P. Ohio",
         "abbreviation2": "BAP Ohio",
         "code": "9ff793139a8af61d8857a2fb71c0f02c",
@@ -1798,7 +1798,7 @@
     {
         "pguid": "urn:entity:jb-100024644",
         "name": "Ohio Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Ohio / Ohio Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Ohio / Ohio Northern",
         "abbreviation": "B.A.P. N.D. Ohio",
         "abbreviation2": "BAP ND Ohio",
         "selectedname": "Ohio Northern (Bankruptcy Adversary Proceeding)",
@@ -1823,7 +1823,7 @@
     {
         "pguid": "urn:entity:jb-100024301",
         "name": "Ohio Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Ohio / Ohio Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Ohio / Ohio Southern",
         "abbreviation": "B.A.P. S.D. Ohio",
         "abbreviation2": "BAP SD Ohio",
         "selectedname": "Ohio Southern (Bankruptcy Adversary Proceeding)",
@@ -1848,7 +1848,7 @@
     {
         "pguid": "urn:propertyValueItem:8BAE93F96BD5449DBDDD68FEA2DACEE8",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Oklahoma",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Oklahoma",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Oklahoma (all)",
         "abbreviation": "B.A.P. Okla.",
         "abbreviation2": "BAP Okla",
         "code": "a34b93cc4a92b5ae3b6293e335e04be8",
@@ -1862,7 +1862,7 @@
     {
         "pguid": "urn:entity:jb-100024562",
         "name": "Oklahoma Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Oklahoma / Oklahoma Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Oklahoma / Oklahoma Eastern",
         "abbreviation": "B.A.P. E.D. Okla.",
         "abbreviation2": "BAP ED Okla",
         "selectedname": "Oklahoma Eastern (Bankruptcy Adversary Proceeding)",
@@ -1887,7 +1887,7 @@
     {
         "pguid": "urn:entity:jb-100024528",
         "name": "Oklahoma Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Oklahoma / Oklahoma Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Oklahoma / Oklahoma Northern",
         "abbreviation": "B.A.P. N.D. Okla.",
         "abbreviation2": "BAP ND Okla",
         "selectedname": "Oklahoma Northern (Bankruptcy Adversary Proceeding)",
@@ -1912,7 +1912,7 @@
     {
         "pguid": "urn:entity:jb-100024564",
         "name": "Oklahoma Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Oklahoma / Oklahoma Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Oklahoma / Oklahoma Western",
         "abbreviation": "B.A.P. W.D. Okla.",
         "abbreviation2": "BAP WD Okla",
         "selectedname": "Oklahoma Western (Bankruptcy Adversary Proceeding)",
@@ -1937,7 +1937,7 @@
     {
         "pguid": "urn:entity:jb-100024572",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Oregon",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Oregon",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Oregon",
         "abbreviation": "B.A.P. D. Or.",
         "abbreviation2": "BAP D Or",
         "code": "73551278481f99af1ff8586634a68ebc",
@@ -1961,7 +1961,7 @@
     {
         "pguid": "urn:propertyValueItem:7E4D8045698B4F2C91D536657F285022",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania (all)",
         "abbreviation": "B.A.P. Pa.",
         "abbreviation2": "BAP Pa",
         "code": "0669e9f327d0405a949639f88370120e",
@@ -1975,7 +1975,7 @@
     {
         "pguid": "urn:entity:jb-100024552",
         "name": "Pennsylvania Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania / Pennsylvania Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania / Pennsylvania Eastern",
         "abbreviation": "B.A.P. E.D. Pa.",
         "abbreviation2": "BAP ED Pa",
         "selectedname": "Pennsylvania Eastern (Bankruptcy Adversary Proceeding)",
@@ -2000,7 +2000,7 @@
     {
         "pguid": "urn:entity:jb-100024703",
         "name": "Pennsylvania Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania / Pennsylvania Middle",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania / Pennsylvania Middle",
         "abbreviation": "B.A.P. M.D. Pa.",
         "abbreviation2": "BAP MD Pa",
         "selectedname": "Pennsylvania Middle (Bankruptcy Adversary Proceeding)",
@@ -2025,7 +2025,7 @@
     {
         "pguid": "urn:entity:jb-100024554",
         "name": "Pennsylvania Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania / Pennsylvania Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Pennsylvania / Pennsylvania Western",
         "abbreviation": "B.A.P. W.D. Pa.",
         "abbreviation2": "BAP WD Pa",
         "selectedname": "Pennsylvania Western (Bankruptcy Adversary Proceeding)",
@@ -2050,7 +2050,7 @@
     {
         "pguid": "urn:entity:jb-100024544",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Puerto Rico",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Puerto Rico",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Puerto Rico",
         "abbreviation": "B.A.P. D.P.R.",
         "abbreviation2": "BAP DPR",
         "code": "eaff2fdff354bbf9e73ce2c112879708",
@@ -2074,7 +2074,7 @@
     {
         "pguid": "urn:entity:jb-100024604",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Rhode Island",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Rhode Island",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Rhode Island",
         "abbreviation": "B.A.P. D.R.I.",
         "abbreviation2": "BAP DRI",
         "code": "8170223b03908712ca015c2f5a71f7bc",
@@ -2098,7 +2098,7 @@
     {
         "pguid": "urn:entity:jb-100024012",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - South Carolina",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - South Carolina",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - South Carolina",
         "abbreviation": "B.A.P. D.S.C.",
         "abbreviation2": "BAP DSC",
         "code": "17687772a1a578c5f31fd7f43a958415",
@@ -2122,7 +2122,7 @@
     {
         "pguid": "urn:entity:jb-100024705",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - South Dakota",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - South Dakota",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - South Dakota",
         "abbreviation": "B.A.P. D.S.D.",
         "abbreviation2": "BAP DSD",
         "code": "3dfb14870da545b6457f0b0d4d94e7ca",
@@ -2146,7 +2146,7 @@
     {
         "pguid": "urn:propertyValueItem:591B9C55EF404808963053DAA72A3BCD",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Tennessee",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Tennessee",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Tennessee (all)",
         "abbreviation": "B.A.P. Tenn.",
         "abbreviation2": "BAP Tenn",
         "code": "df9e621972992b5694f97eb465e3696c",
@@ -2160,7 +2160,7 @@
     {
         "pguid": "urn:entity:jb-100024650",
         "name": "Tennessee Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Tennessee / Tennessee Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Tennessee / Tennessee Eastern",
         "abbreviation": "B.A.P. E.D. Tenn.",
         "abbreviation2": "BAP ED Tenn",
         "selectedname": "Tennessee Eastern (Bankruptcy Adversary Proceeding)",
@@ -2185,7 +2185,7 @@
     {
         "pguid": "urn:entity:jb-100024341",
         "name": "Tennessee Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Tennessee / Tennessee Middle",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Tennessee / Tennessee Middle",
         "abbreviation": "B.A.P. M.D. Tenn.",
         "abbreviation2": "BAP MD Tenn",
         "selectedname": "Tennessee Middle (Bankruptcy Adversary Proceeding)",
@@ -2210,7 +2210,7 @@
     {
         "pguid": "urn:entity:jb-100024653",
         "name": "Tennessee Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Tennessee / Tennessee Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Tennessee / Tennessee Western",
         "abbreviation": "B.A.P. W.D. Tenn.",
         "abbreviation2": "BAP WD Tenn",
         "selectedname": "Tennessee Western (Bankruptcy Adversary Proceeding)",
@@ -2235,7 +2235,7 @@
     {
         "pguid": "urn:propertyValueItem:9E737731C957412F8E20563E2203E38C",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Texas",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Texas",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Texas (all)",
         "abbreviation": "B.A.P. Tex.",
         "abbreviation2": "BAP Tex",
         "code": "22b471827fef1db1c02f44179f057ce0",
@@ -2249,7 +2249,7 @@
     {
         "pguid": "urn:entity:jb-100024174",
         "name": "Texas Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Eastern",
         "abbreviation": "B.A.P. E.D. Tex.",
         "abbreviation2": "BAP ED Tex",
         "selectedname": "Texas Eastern (Bankruptcy Adversary Proceeding)",
@@ -2274,7 +2274,7 @@
     {
         "pguid": "urn:entity:jb-100024623",
         "name": "Texas Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Northern",
         "abbreviation": "B.A.P. N.D. Tex.",
         "abbreviation2": "BAP ND Tex",
         "selectedname": "Texas Northern (Bankruptcy Adversary Proceeding)",
@@ -2299,7 +2299,7 @@
     {
         "pguid": "urn:entity:jb-500000105",
         "name": "Texas Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Southern",
         "abbreviation": "B.A.P. S.D. Tex.",
         "abbreviation2": "BAP SD Tex",
         "selectedname": "Texas Southern (Bankruptcy Adversary Proceeding)",
@@ -2324,7 +2324,7 @@
     {
         "pguid": "urn:entity:jb-100024633",
         "name": "Texas Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Texas / Texas Western",
         "abbreviation": "B.A.P. W.D. Tex.",
         "abbreviation2": "BAP WD Tex",
         "selectedname": "Texas Western (Bankruptcy Adversary Proceeding)",
@@ -2349,7 +2349,7 @@
     {
         "pguid": "urn:entity:jb-100024530",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Utah",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Utah",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Utah",
         "abbreviation": "B.A.P. D. Utah",
         "abbreviation2": "BAP D Utah",
         "code": "6d2ae7ebebc61f89ede9ea1c088488f7",
@@ -2373,7 +2373,7 @@
     {
         "pguid": "urn:entity:jb-100024707",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Vermont",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Vermont",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Vermont",
         "abbreviation": "B.A.P. D. Vt.",
         "abbreviation2": "BAP D Vt",
         "code": "964deea99d53668f1e5cf21c996a2a73",
@@ -2397,7 +2397,7 @@
     {
         "pguid": "urn:entity:jb-500000104",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Virgin Islands",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Virgin Islands",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Virgin Islands",
         "abbreviation": "B.A.P. D.V.I.",
         "abbreviation2": "BAP DVI",
         "code": "5bdc148947dd1c6df2e3b31148433221",
@@ -2421,7 +2421,7 @@
     {
         "pguid": "urn:propertyValueItem:9BF99D6FE67F4E79A1C81BF0C49AA560",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Virginia",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Virginia",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Virginia (all)",
         "abbreviation": "B.A.P. Va.",
         "abbreviation2": "BAP Va",
         "code": "20d789d3151bb33d05bb5a473642305c",
@@ -2435,7 +2435,7 @@
     {
         "pguid": "urn:entity:jb-100024601",
         "name": "Virginia Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Virginia / Virginia Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Virginia / Virginia Eastern",
         "abbreviation": "B.A.P. E.D. Va.",
         "abbreviation2": "BAP ED Va",
         "selectedname": "Virginia Eastern (Bankruptcy Adversary Proceeding)",
@@ -2460,7 +2460,7 @@
     {
         "pguid": "urn:entity:jb-100024111",
         "name": "Virginia Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Virginia / Virginia Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Virginia / Virginia Western",
         "abbreviation": "B.A.P. W.D. Va.",
         "abbreviation2": "BAP WD Va",
         "selectedname": "Virginia Western (Bankruptcy Adversary Proceeding)",
@@ -2485,7 +2485,7 @@
     {
         "pguid": "urn:propertyValueItem:FCBF7987A7D04D8F9A94FD3B8FF26EC9",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Washington",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Washington",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Washington (all)",
         "abbreviation": "B.A.P. Wash.",
         "abbreviation2": "BAP Wash",
         "code": "d02616d1713c171ba46e20fda7cf40b1",
@@ -2499,7 +2499,7 @@
     {
         "pguid": "urn:entity:jb-100024522",
         "name": "Washington Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Washington / Washington Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Washington / Washington Eastern",
         "abbreviation": "B.A.P. E.D. Wash.",
         "abbreviation2": "BAP ED Wash",
         "selectedname": "Washington Eastern (Bankruptcy Adversary Proceeding)",
@@ -2524,7 +2524,7 @@
     {
         "pguid": "urn:entity:jb-100024558",
         "name": "Washington Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Washington / Washington Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Washington / Washington Western",
         "abbreviation": "B.A.P. W.D. Wash.",
         "abbreviation2": "BAP WD Wash",
         "selectedname": "Washington Western (Bankruptcy Adversary Proceeding)",
@@ -2549,7 +2549,7 @@
     {
         "pguid": "urn:propertyValueItem:FFB6E88C2281472BAC0F155CEF327621",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - West Virginia",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - West Virginia",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - West Virginia (all)",
         "abbreviation": "B.A.P. W. Va.",
         "abbreviation2": "BAP W Va",
         "code": "324d4020aad1c25c1093ec597541d09e",
@@ -2563,7 +2563,7 @@
     {
         "pguid": "urn:entity:jb-100024606",
         "name": "West Virginia Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - West Virginia / West Virginia Northern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - West Virginia / West Virginia Northern",
         "abbreviation": "B.A.P. N.D.W. Va.",
         "abbreviation2": "BAP NDW Va",
         "selectedname": "West Virginia Northern (Bankruptcy Adversary Proceeding)",
@@ -2588,7 +2588,7 @@
     {
         "pguid": "urn:entity:jb-100024617",
         "name": "West Virginia Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - West Virginia / West Virginia Southern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - West Virginia / West Virginia Southern",
         "abbreviation": "B.A.P. S.D.W. Va.",
         "abbreviation2": "BAP SDW Va",
         "selectedname": "West Virginia Southern (Bankruptcy Adversary Proceeding)",
@@ -2613,7 +2613,7 @@
     {
         "pguid": "urn:propertyValueItem:D34F57AE1AE041CBA2F7B9A2165DC47C",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Wisconsin",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Wisconsin",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Wisconsin (all)",
         "abbreviation": "B.A.P. Wis.",
         "abbreviation2": "BAP Wis",
         "code": "628a76be5204a9ced48cff9336df61c0",
@@ -2627,7 +2627,7 @@
     {
         "pguid": "urn:entity:jb-100024668",
         "name": "Wisconsin Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Wisconsin / Wisconsin Eastern",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Wisconsin / Wisconsin Eastern",
         "abbreviation": "B.A.P. E.D. Wis.",
         "abbreviation2": "BAP ED Wis",
         "selectedname": "Wisconsin Eastern (Bankruptcy Adversary Proceeding)",
@@ -2652,7 +2652,7 @@
     {
         "pguid": "urn:entity:jb-100024502",
         "name": "Wisconsin Western",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Wisconsin / Wisconsin Western",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Wisconsin / Wisconsin Western",
         "abbreviation": "B.A.P. W.D. Wis.",
         "abbreviation2": "BAP WD Wis",
         "selectedname": "Wisconsin Western (Bankruptcy Adversary Proceeding)",
@@ -2677,7 +2677,7 @@
     {
         "pguid": "urn:entity:jb-100024566",
         "name": "U.S. Bankruptcy Court Adversary Proceeding - Wyoming",
-        "pathname": "United States / U.S. Bankruptcy Courts Adversary Proceeding / U.S. Bankruptcy Court Adversary Proceeding - Wyoming",
+        "pathname": "U.S. Bankruptcy Court Adversary Proceeding - Wyoming",
         "abbreviation": "B.A.P. D. Wyo.",
         "abbreviation2": "BAP D Wyo",
         "code": "e3d004ea3a232a38dddf12d7930a7980",
@@ -2701,7 +2701,7 @@
     {
         "pguid": "urn:entity:jb-100008212",
         "name": "U.S. Bankruptcy Courts",
-        "pathname": "United States / U.S. Bankruptcy Courts",
+        "pathname": "U.S. Bankruptcy Courts (all)",
         "abbreviation": "Bankr.",
         "abbreviation2": "Bankr",
         "selectedname": "U.S. Bankruptcy Courts (United States)",
@@ -2714,7 +2714,7 @@
     {
         "pguid": "urn:propertyValueItem:1BC01345AC4D49C68C456574B40A4495",
         "name": "U.S. Bankruptcy Alabama",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Alabama",
+        "pathname": "U.S. Bankruptcy Alabama (all)",
         "abbreviation": "Bankr. Ala.",
         "abbreviation2": "Bankr Ala",
         "code": "221e8694107db3f38c514b68cdd7c798",
@@ -2726,7 +2726,7 @@
     {
         "pguid": "urn:entity:jb-500000560",
         "name": "Alabama Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Alabama / Alabama Middle",
+        "pathname": "U.S. Bankruptcy Alabama / Alabama Middle",
         "abbreviation": "Bankr. M.D. Ala.",
         "abbreviation2": "Bankr MD Ala",
         "selectedname": "Alabama Middle (Bankruptcy)",
@@ -2749,7 +2749,7 @@
     {
         "pguid": "urn:entity:jb-100024567",
         "name": "Alabama Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Alabama / Alabama Northern",
+        "pathname": "U.S. Bankruptcy Alabama / Alabama Northern",
         "abbreviation": "Bankr. N.D. Ala.",
         "abbreviation2": "Bankr ND Ala",
         "selectedname": "Alabama Northern (Bankruptcy)",
@@ -2772,7 +2772,7 @@
     {
         "pguid": "urn:entity:jb-100024533",
         "name": "Alabama Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Alabama / Alabama Southern",
+        "pathname": "U.S. Bankruptcy Alabama / Alabama Southern",
         "abbreviation": "Bankr. S.D. Ala.",
         "abbreviation2": "Bankr SD Ala",
         "selectedname": "Alabama Southern (Bankruptcy)",
@@ -2795,7 +2795,7 @@
     {
         "pguid": "urn:entity:jb-100024507",
         "name": "U.S. Bankruptcy Alaska",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Alaska",
+        "pathname": "U.S. Bankruptcy Alaska",
         "abbreviation": "Bankr. D. Alaska",
         "abbreviation2": "Bankr D Alaska",
         "code": "749892f934a99f830d320a6e18f820c5",
@@ -2817,7 +2817,7 @@
     {
         "pguid": "urn:entity:jb-100024678",
         "name": "U.S. Bankruptcy Arizona",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Arizona",
+        "pathname": "U.S. Bankruptcy Arizona",
         "abbreviation": "Bankr. D. Ariz.",
         "abbreviation2": "Bankr D Ariz",
         "code": "9895b8b829e3aa9b7b4b997e95999b60",
@@ -2839,7 +2839,7 @@
     {
         "pguid": "urn:propertyValueItem:F5BAF545CC7A42288995DD500FCDF7C1",
         "name": "U.S. Bankruptcy Arkansas",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Arkansas",
+        "pathname": "U.S. Bankruptcy Arkansas (all)",
         "abbreviation": "Bankr. Ark.",
         "abbreviation2": "Bankr Ark",
         "code": "7a4ec760a027ee2b92057b48c9f9d623",
@@ -2851,7 +2851,7 @@
     {
         "pguid": "urn:entity:jb-100024646",
         "name": "Arkansas Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Arkansas / Arkansas Eastern",
+        "pathname": "U.S. Bankruptcy Arkansas / Arkansas Eastern",
         "abbreviation": "Bankr. E.D. Ariz.",
         "abbreviation2": "Bankr ED Ariz",
         "selectedname": "Arkansas Eastern (Bankruptcy)",
@@ -2874,7 +2874,7 @@
     {
         "pguid": "urn:entity:jb-100024647",
         "name": "Arkansas Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Arkansas / Arkansas Western",
+        "pathname": "U.S. Bankruptcy Arkansas / Arkansas Western",
         "abbreviation": "Bankr. W.D. Ariz.",
         "abbreviation2": "Bankr WD Ariz",
         "selectedname": "Arkansas Western (Bankruptcy)",
@@ -2897,7 +2897,7 @@
     {
         "pguid": "urn:propertyValueItem:BE7E40D2C62B4D54AE2A04A02A817909",
         "name": "U.S. Bankruptcy California",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy California",
+        "pathname": "U.S. Bankruptcy California (all)",
         "abbreviation": "Bankr. Cal.",
         "abbreviation2": "Bankr Cal",
         "code": "f43732d101b39e8373a16485a034be18",
@@ -2909,7 +2909,7 @@
     {
         "pguid": "urn:entity:jb-100024509",
         "name": "California Central",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy California / California Central",
+        "pathname": "U.S. Bankruptcy California / California Central",
         "abbreviation": "Bankr. C.D. Cal.",
         "abbreviation2": "Bankr CD Cal",
         "selectedname": "California Central (Bankruptcy)",
@@ -2932,7 +2932,7 @@
     {
         "pguid": "urn:entity:jb-100024681",
         "name": "California Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy California / California Eastern",
+        "pathname": "U.S. Bankruptcy California / California Eastern",
         "abbreviation": "Bankr. E.D. Cal.",
         "abbreviation2": "Bankr ED Cal",
         "selectedname": "California Eastern (Bankruptcy)",
@@ -2955,7 +2955,7 @@
     {
         "pguid": "urn:entity:jb-100024512",
         "name": "California Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy California / California Northern",
+        "pathname": "U.S. Bankruptcy California / California Northern",
         "abbreviation": "Bankr. N.D. Cal.",
         "abbreviation2": "Bankr ND Cal",
         "selectedname": "California Northern (Bankruptcy)",
@@ -2978,7 +2978,7 @@
     {
         "pguid": "urn:entity:jb-100024685",
         "name": "California Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy California / California Southern",
+        "pathname": "U.S. Bankruptcy California / California Southern",
         "abbreviation": "Bankr. S.D. Cal.",
         "abbreviation2": "Bankr SD Cal",
         "selectedname": "California Southern (Bankruptcy)",
@@ -3001,7 +3001,7 @@
     {
         "pguid": "urn:entity:jb-100024523",
         "name": "U.S. Bankruptcy Colorado",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Colorado",
+        "pathname": "U.S. Bankruptcy Colorado",
         "abbreviation": "Bankr. D. Colo.",
         "abbreviation2": "Bankr D Colo",
         "code": "3d24eda48baf8c0cb4c99a61d9afd814",
@@ -3023,7 +3023,7 @@
     {
         "pguid": "urn:entity:jb-100024618",
         "name": "U.S. Bankruptcy Connecticut",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Connecticut",
+        "pathname": "U.S. Bankruptcy Connecticut",
         "abbreviation": "Bankr. D. Conn.",
         "abbreviation2": "Bankr D Conn",
         "code": "d0c222ace024b6e103c7dc3e8beca00d",
@@ -3045,7 +3045,7 @@
     {
         "pguid": "urn:entity:jb-100024009",
         "name": "U.S. Bankruptcy Delaware",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Delaware",
+        "pathname": "U.S. Bankruptcy Delaware",
         "abbreviation": "Bankr. D. Del.",
         "abbreviation2": "Bankr D Del",
         "code": "224056b090287f4363f555285dca1469",
@@ -3067,7 +3067,7 @@
     {
         "pguid": "urn:entity:jb-100024573",
         "name": "U.S. Bankruptcy District of Columbia",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy District of Columbia",
+        "pathname": "U.S. Bankruptcy District of Columbia",
         "abbreviation": "Bankr. D.D.C.",
         "abbreviation2": "Bankr DDC",
         "code": "5e68c583aa0d202b7d32e4b55f7f9692",
@@ -3089,7 +3089,7 @@
     {
         "pguid": "urn:propertyValueItem:42DE92DF5A3E44849032602C16E616B6",
         "name": "U.S. Bankruptcy Florida",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Florida",
+        "pathname": "U.S. Bankruptcy Florida (all)",
         "abbreviation": "Bankr. Fla.",
         "abbreviation2": "Bankr Fla",
         "code": "1815e3dfea0c6e490931d80eaf91e1d6",
@@ -3101,7 +3101,7 @@
     {
         "pguid": "urn:entity:jb-100024569",
         "name": "Florida Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Florida / Florida Middle",
+        "pathname": "U.S. Bankruptcy Florida / Florida Middle",
         "abbreviation": "Bankr. M.D. Fla.",
         "abbreviation2": "Bankr MD Fla",
         "selectedname": "Florida Middle (Bankruptcy)",
@@ -3124,7 +3124,7 @@
     {
         "pguid": "urn:entity:jb-100024535",
         "name": "Florida Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Florida / Florida Northern",
+        "pathname": "U.S. Bankruptcy Florida / Florida Northern",
         "abbreviation": "Bankr. N.D. Fla.",
         "abbreviation2": "Bankr ND Fla",
         "selectedname": "Florida Northern (Bankruptcy)",
@@ -3147,7 +3147,7 @@
     {
         "pguid": "urn:entity:jb-100024576",
         "name": "Florida Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Florida / Florida Southern",
+        "pathname": "U.S. Bankruptcy Florida / Florida Southern",
         "abbreviation": "Bankr. S.D. Fla.",
         "abbreviation2": "Bankr SD Fla",
         "selectedname": "Florida Southern (Bankruptcy)",
@@ -3170,7 +3170,7 @@
     {
         "pguid": "urn:propertyValueItem:B9F47814DEB8472F9196F8F8E525902D",
         "name": "U.S. Bankruptcy Georgia",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Georgia",
+        "pathname": "U.S. Bankruptcy Georgia (all)",
         "abbreviation": "Bankr. Ga.",
         "abbreviation2": "Bankr Ga",
         "code": "003e0eda62b0fc6c37e3cba7d0e04d87",
@@ -3182,7 +3182,7 @@
     {
         "pguid": "urn:entity:jb-100024537",
         "name": "Georgia Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Georgia / Georgia Middle",
+        "pathname": "U.S. Bankruptcy Georgia / Georgia Middle",
         "abbreviation": "Bankr. M.D. Ga.",
         "abbreviation2": "Bankr MD Ga",
         "selectedname": "Georgia Middle (Bankruptcy)",
@@ -3205,7 +3205,7 @@
     {
         "pguid": "urn:entity:jb-100024581",
         "name": "Georgia Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Georgia / Georgia Northern",
+        "pathname": "U.S. Bankruptcy Georgia / Georgia Northern",
         "abbreviation": "Bankr. N.D. Ga.",
         "abbreviation2": "Bankr ND Ga",
         "selectedname": "Georgia Northern (Bankruptcy)",
@@ -3228,7 +3228,7 @@
     {
         "pguid": "urn:entity:jb-100024539",
         "name": "Georgia Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Georgia / Georgia Southern",
+        "pathname": "U.S. Bankruptcy Georgia / Georgia Southern",
         "abbreviation": "Bankr. S.D. Ga.",
         "abbreviation2": "Bankr SD Ga",
         "selectedname": "Georgia Southern (Bankruptcy)",
@@ -3251,7 +3251,7 @@
     {
         "pguid": "urn:entity:jb-100024627",
         "name": "U.S. Bankruptcy Guam",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Guam",
+        "pathname": "U.S. Bankruptcy Guam",
         "abbreviation": "Bankr. D. Guam",
         "abbreviation2": "Bankr D Guam",
         "code": "1fa9f248c936223df1b420fcd864a7a5",
@@ -3273,7 +3273,7 @@
     {
         "pguid": "urn:entity:jb-100024514",
         "name": "U.S. Bankruptcy Hawaii",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Hawaii",
+        "pathname": "U.S. Bankruptcy Hawaii",
         "abbreviation": "Bankr. D. Haw.",
         "abbreviation2": "Bankr D Haw",
         "code": "1ab593ab29896d44047bbb16616f5056",
@@ -3295,7 +3295,7 @@
     {
         "pguid": "urn:entity:jb-100024688",
         "name": "U.S. Bankruptcy Idaho",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Idaho",
+        "pathname": "U.S. Bankruptcy Idaho",
         "abbreviation": "Bankr. D. Idaho",
         "abbreviation2": "Bankr D Idaho",
         "code": "1f11f4115d4a5dd3c8d09a784dc0d9bd",
@@ -3317,7 +3317,7 @@
     {
         "pguid": "urn:propertyValueItem:05E6998B69BC4BF488FCEA9F281CE3A9",
         "name": "U.S. Bankruptcy Illinois",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Illinois",
+        "pathname": "U.S. Bankruptcy Illinois (all)",
         "abbreviation": "Bankr. Ill.",
         "abbreviation2": "Bankr Ill",
         "code": "74af656197e743c0c8637ed393addb37",
@@ -3329,7 +3329,7 @@
     {
         "pguid": "urn:entity:jb-100024361",
         "name": "Illinois Central",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Illinois / Illinois Central",
+        "pathname": "U.S. Bankruptcy Illinois / Illinois Central",
         "abbreviation": "Bankr. C.D. Ill.",
         "abbreviation2": "Bankr CD Ill",
         "selectedname": "Illinois Central (Bankruptcy)",
@@ -3352,7 +3352,7 @@
     {
         "pguid": "urn:entity:jb-100024657",
         "name": "Illinois Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Illinois / Illinois Northern",
+        "pathname": "U.S. Bankruptcy Illinois / Illinois Northern",
         "abbreviation": "Bankr. N.D. Ill.",
         "abbreviation2": "Bankr ND Ill",
         "selectedname": "Illinois Northern (Bankruptcy)",
@@ -3375,7 +3375,7 @@
     {
         "pguid": "urn:entity:jb-100024421",
         "name": "Illinois Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Illinois / Illinois Southern",
+        "pathname": "U.S. Bankruptcy Illinois / Illinois Southern",
         "abbreviation": "Bankr. S.D. Ill.",
         "abbreviation2": "Bankr SD Ill",
         "selectedname": "Illinois Southern (Bankruptcy)",
@@ -3398,7 +3398,7 @@
     {
         "pguid": "urn:propertyValueItem:47569A164FE74FFB84855D5CDC0AAC2F",
         "name": "U.S. Bankruptcy Indiana",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Indiana",
+        "pathname": "U.S. Bankruptcy Indiana (all)",
         "abbreviation": "Bankr. Ind.",
         "abbreviation2": "Bankr Ind",
         "code": "1fc0c52f0516c8aceae264451cdf379f",
@@ -3410,7 +3410,7 @@
     {
         "pguid": "urn:entity:jb-100024660",
         "name": "Indiana Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Indiana / Indiana Northern",
+        "pathname": "U.S. Bankruptcy Indiana / Indiana Northern",
         "abbreviation": "Bankr. N.D. Ind.",
         "abbreviation2": "Bankr ND Ind",
         "selectedname": "Indiana Northern (Bankruptcy)",
@@ -3433,7 +3433,7 @@
     {
         "pguid": "urn:entity:jb-100024461",
         "name": "Indiana Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Indiana / Indiana Southern",
+        "pathname": "U.S. Bankruptcy Indiana / Indiana Southern",
         "abbreviation": "Bankr. S.D. Ind.",
         "abbreviation2": "Bankr SD Ind",
         "selectedname": "Indiana Southern (Bankruptcy)",
@@ -3456,7 +3456,7 @@
     {
         "pguid": "urn:propertyValueItem:13B12AC3F09D42A29B19350700DC057E",
         "name": "U.S. Bankruptcy Iowa",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Iowa",
+        "pathname": "U.S. Bankruptcy Iowa (all)",
         "abbreviation": "Bankr. Iowa",
         "abbreviation2": "Bankr Iowa",
         "code": "a934dde3be55fe347f9e670df86fefe1",
@@ -3468,7 +3468,7 @@
     {
         "pguid": "urn:entity:jb-100024503",
         "name": "Iowa Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Iowa / Iowa Northern",
+        "pathname": "U.S. Bankruptcy Iowa / Iowa Northern",
         "abbreviation": "Bankr. N.D. Iowa",
         "abbreviation2": "Bankr ND Iowa",
         "selectedname": "Iowa Northern (Bankruptcy)",
@@ -3491,7 +3491,7 @@
     {
         "pguid": "urn:entity:jb-100024669",
         "name": "Iowa Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Iowa / Iowa Southern",
+        "pathname": "U.S. Bankruptcy Iowa / Iowa Southern",
         "abbreviation": "Bankr. S.D. Iowa",
         "abbreviation2": "Bankr SD Iowa",
         "selectedname": "Iowa Southern (Bankruptcy)",
@@ -3514,7 +3514,7 @@
     {
         "pguid": "urn:entity:jb-100024559",
         "name": "U.S. Bankruptcy Kansas",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Kansas",
+        "pathname": "U.S. Bankruptcy Kansas",
         "abbreviation": "Bankr. D. Kan.",
         "abbreviation2": "Bankr D Kan",
         "code": "acad86ac9f24dbff43185452ca7edbb9",
@@ -3536,7 +3536,7 @@
     {
         "pguid": "urn:propertyValueItem:B13DAABC509A49499E9E46DECB95185A",
         "name": "U.S. Bankruptcy Kentucky",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Kentucky",
+        "pathname": "U.S. Bankruptcy Kentucky (all)",
         "abbreviation": "Bankr. Ky.",
         "abbreviation2": "Bankr Ky",
         "code": "3c70ae7991bb7ba327236d875527a39d",
@@ -3548,7 +3548,7 @@
     {
         "pguid": "urn:entity:jb-100024181",
         "name": "Kentucky Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Kentucky / Kentucky Eastern",
+        "pathname": "U.S. Bankruptcy Kentucky / Kentucky Eastern",
         "abbreviation": "Bankr. E.D. Ky.",
         "abbreviation2": "Bankr ED Ky",
         "selectedname": "Kentucky Eastern (Bankruptcy)",
@@ -3571,7 +3571,7 @@
     {
         "pguid": "urn:entity:jb-100024635",
         "name": "Kentucky Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Kentucky / Kentucky Western",
+        "pathname": "U.S. Bankruptcy Kentucky / Kentucky Western",
         "abbreviation": "Bankr. W.D. Ky.",
         "abbreviation2": "Bankr WD Ky",
         "selectedname": "Kentucky Western (Bankruptcy)",
@@ -3594,7 +3594,7 @@
     {
         "pguid": "urn:propertyValueItem:714012A0262542A3870D6DB6B6D13BA6",
         "name": "U.S. Bankruptcy Louisiana",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Louisiana",
+        "pathname": "U.S. Bankruptcy Louisiana (all)",
         "abbreviation": "Bankr. La.",
         "abbreviation2": "Bankr La",
         "code": "ceca2969e5554643e32bf765eb48c588",
@@ -3606,7 +3606,7 @@
     {
         "pguid": "urn:entity:jb-100024112",
         "name": "Louisiana Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Louisiana / Louisiana Eastern",
+        "pathname": "U.S. Bankruptcy Louisiana / Louisiana Eastern",
         "abbreviation": "Bankr. E.D. La.",
         "abbreviation2": "Bankr ED La",
         "selectedname": "Louisiana Eastern (Bankruptcy)",
@@ -3629,7 +3629,7 @@
     {
         "pguid": "urn:entity:jb-100024545",
         "name": "Louisiana Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Louisiana / Louisiana Middle",
+        "pathname": "U.S. Bankruptcy Louisiana / Louisiana Middle",
         "abbreviation": "Bankr. M.D. La.",
         "abbreviation2": "Bankr MD La",
         "selectedname": "Louisiana Middle (Bankruptcy)",
@@ -3652,7 +3652,7 @@
     {
         "pguid": "urn:entity:jb-100024611",
         "name": "Louisiana Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Louisiana / Louisiana Western",
+        "pathname": "U.S. Bankruptcy Louisiana / Louisiana Western",
         "abbreviation": "Bankr. W.D. La.",
         "abbreviation2": "Bankr WD La",
         "selectedname": "Louisiana Western (Bankruptcy)",
@@ -3675,7 +3675,7 @@
     {
         "pguid": "urn:entity:jb-100024575",
         "name": "U.S. Bankruptcy Maine",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Maine",
+        "pathname": "U.S. Bankruptcy Maine",
         "abbreviation": "Bankr. D. Me.",
         "abbreviation2": "Bankr D Me",
         "code": "990adf7922f5c7e681e6b2f845a24408",
@@ -3697,7 +3697,7 @@
     {
         "pguid": "urn:entity:jb-100024016",
         "name": "U.S. Bankruptcy Maryland",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Maryland",
+        "pathname": "U.S. Bankruptcy Maryland",
         "abbreviation": "Bankr. D. Md.",
         "abbreviation2": "Bankr D Md",
         "code": "5c12ff4bc66718e839a83e88844cbd0f",
@@ -3719,7 +3719,7 @@
     {
         "pguid": "urn:entity:jb-100024589",
         "name": "U.S. Bankruptcy Massachusetts",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Massachusetts",
+        "pathname": "U.S. Bankruptcy Massachusetts",
         "abbreviation": "Bankr. D. Mass",
         "abbreviation2": "Bankr D Mass",
         "code": "a17c168505479a1bb462b87563038821",
@@ -3741,7 +3741,7 @@
     {
         "pguid": "urn:propertyValueItem:715380B30DA34777A5FCA8414149E29A",
         "name": "U.S. Bankruptcy Michigan",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Michigan",
+        "pathname": "U.S. Bankruptcy Michigan (all)",
         "abbreviation": "Bankr. Mich.",
         "abbreviation2": "Bankr Mich",
         "code": "a1644ebf863fab5c473a704d4096b8b1",
@@ -3753,7 +3753,7 @@
     {
         "pguid": "urn:entity:jb-100024221",
         "name": "Michigan Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Michigan / Michigan Eastern",
+        "pathname": "U.S. Bankruptcy Michigan / Michigan Eastern",
         "abbreviation": "Bankr. E.D. Mich.",
         "abbreviation2": "Bankr ED Mich",
         "selectedname": "Michigan Eastern (Bankruptcy)",
@@ -3776,7 +3776,7 @@
     {
         "pguid": "urn:entity:jb-100024605",
         "name": "Michigan Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Michigan / Michigan Western",
+        "pathname": "U.S. Bankruptcy Michigan / Michigan Western",
         "abbreviation": "Bankr. W.D. Mich.",
         "abbreviation2": "Bankr WD Mich",
         "selectedname": "Michigan Western (Bankruptcy)",
@@ -3799,7 +3799,7 @@
     {
         "pguid": "urn:entity:jb-100024505",
         "name": "U.S. Bankruptcy Minnesota",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Minnesota",
+        "pathname": "U.S. Bankruptcy Minnesota",
         "abbreviation": "Bankr. D. Minn.",
         "abbreviation2": "Bankr D Minn",
         "code": "7173a41ed8229e9fb176a3e79af98179",
@@ -3821,7 +3821,7 @@
     {
         "pguid": "urn:propertyValueItem:E50F9FBCB5C04FBC81EC792087FA40F3",
         "name": "U.S. Bankruptcy Mississippi",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Mississippi",
+        "pathname": "U.S. Bankruptcy Mississippi (all)",
         "abbreviation": "Bankr. Miss.",
         "abbreviation2": "Bankr Miss",
         "code": "4f112fbe4292b91a75e43d8dbe3a5e3f",
@@ -3833,7 +3833,7 @@
     {
         "pguid": "urn:entity:jb-100024171",
         "name": "Mississippi Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Mississippi / Mississippi Northern",
+        "pathname": "U.S. Bankruptcy Mississippi / Mississippi Northern",
         "abbreviation": "Bankr. N.D. Miss.",
         "abbreviation2": "Bankr ND Miss",
         "selectedname": "Mississippi Northern (Bankruptcy)",
@@ -3856,7 +3856,7 @@
     {
         "pguid": "urn:entity:jb-100024615",
         "name": "Mississippi Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Mississippi / Mississippi Southern",
+        "pathname": "U.S. Bankruptcy Mississippi / Mississippi Southern",
         "abbreviation": "Bankr. S.D. Miss.",
         "abbreviation2": "Bankr SD Miss",
         "selectedname": "Mississippi Southern (Bankruptcy)",
@@ -3879,7 +3879,7 @@
     {
         "pguid": "urn:propertyValueItem:4A83DD3B12E949DCB35DD8F8E05F9626",
         "name": "U.S. Bankruptcy Missouri",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Missouri",
+        "pathname": "U.S. Bankruptcy Missouri (all)",
         "abbreviation": "Bankr. Mo.",
         "abbreviation2": "Bankr Mo",
         "code": "2e6574a938032c7a6989b1ec67b295b6",
@@ -3891,7 +3891,7 @@
     {
         "pguid": "urn:entity:jb-100024672",
         "name": "Missouri Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Missouri / Missouri Eastern",
+        "pathname": "U.S. Bankruptcy Missouri / Missouri Eastern",
         "abbreviation": "Bankr. E.D. Mo.",
         "abbreviation2": "Bankr ED Mo",
         "selectedname": "Missouri Eastern (Bankruptcy)",
@@ -3914,7 +3914,7 @@
     {
         "pguid": "urn:entity:jb-500000559",
         "name": "Missouri Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Missouri / Missouri Western",
+        "pathname": "U.S. Bankruptcy Missouri / Missouri Western",
         "abbreviation": "Bankr. W.D. Mo.",
         "abbreviation2": "Bankr WD Mo",
         "selectedname": "Missouri Western (Bankruptcy)",
@@ -3937,7 +3937,7 @@
     {
         "pguid": "urn:entity:jb-100024516",
         "name": "U.S. Bankruptcy Montana",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Montana",
+        "pathname": "U.S. Bankruptcy Montana",
         "abbreviation": "Bankr. D. Mont.",
         "abbreviation2": "Bankr D Mont",
         "code": "a0d7797b6683edcc3681972bf2524155",
@@ -3959,7 +3959,7 @@
     {
         "pguid": "urn:entity:jb-100024674",
         "name": "U.S. Bankruptcy Nebraska",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Nebraska",
+        "pathname": "U.S. Bankruptcy Nebraska",
         "abbreviation": "Bankr. D. Neb.",
         "abbreviation2": "Bankr D Neb",
         "code": "a0ee58bb65f68ed59d2769dcbb9bcab8",
@@ -3981,7 +3981,7 @@
     {
         "pguid": "urn:entity:jb-100024692",
         "name": "U.S. Bankruptcy Nevada",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Nevada",
+        "pathname": "U.S. Bankruptcy Nevada",
         "abbreviation": "Bankr. D. Nev.",
         "abbreviation2": "Bankr D Nev",
         "code": "c3e9637c3da1b22e136b2ebe89b4e9b7",
@@ -4003,7 +4003,7 @@
     {
         "pguid": "urn:entity:jb-100024541",
         "name": "U.S. Bankruptcy New Hampshire",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New Hampshire",
+        "pathname": "U.S. Bankruptcy New Hampshire",
         "abbreviation": "Bankr. D.N.H.",
         "abbreviation2": "Bankr DNH",
         "code": "4c64a25d1877f09ae2f6ce2c8f083083",
@@ -4025,7 +4025,7 @@
     {
         "pguid": "urn:entity:jb-100024578",
         "name": "U.S. Bankruptcy New Jersey",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New Jersey",
+        "pathname": "U.S. Bankruptcy New Jersey",
         "abbreviation": "Bankr. D.N.J.",
         "abbreviation2": "Bankr DNJ",
         "code": "4f322d645de2ea7c6ea8055479b7c9c8",
@@ -4047,7 +4047,7 @@
     {
         "pguid": "urn:entity:jb-100024525",
         "name": "U.S. Bankruptcy New Mexico",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New Mexico",
+        "pathname": "U.S. Bankruptcy New Mexico",
         "abbreviation": "Bankr. D.N.M.",
         "abbreviation2": "Bankr DNM",
         "code": "befe96be528b879cd60934dc7b49e5ff",
@@ -4069,7 +4069,7 @@
     {
         "pguid": "urn:propertyValueItem:73CC228862854118921176660D0C1B89",
         "name": "U.S. Bankruptcy New York",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New York",
+        "pathname": "U.S. Bankruptcy New York (all)",
         "abbreviation": "Bankr. N.Y.",
         "abbreviation2": "Bankr NY",
         "code": "5eeb810a5be680c984d1f26e92b8fd45",
@@ -4081,7 +4081,7 @@
     {
         "pguid": "urn:entity:jb-100024547",
         "name": "New York Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New York / New York Eastern",
+        "pathname": "U.S. Bankruptcy New York / New York Eastern",
         "abbreviation": "Bankr. E.D.N.Y.",
         "abbreviation2": "Bankr EDNY",
         "selectedname": "New York Eastern (Bankruptcy)",
@@ -4104,7 +4104,7 @@
     {
         "pguid": "urn:entity:jb-100024698",
         "name": "New York Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New York / New York Northern",
+        "pathname": "U.S. Bankruptcy New York / New York Northern",
         "abbreviation": "Bankr. N.D.N.Y.",
         "abbreviation2": "Bankr NDNY",
         "selectedname": "New York Northern (Bankruptcy)",
@@ -4127,7 +4127,7 @@
     {
         "pguid": "urn:entity:jb-100024549",
         "name": "New York Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New York / New York Southern",
+        "pathname": "U.S. Bankruptcy New York / New York Southern",
         "abbreviation": "Bankr. S.D.N.Y.",
         "abbreviation2": "Bankr SDNY",
         "selectedname": "New York Southern (Bankruptcy)",
@@ -4150,7 +4150,7 @@
     {
         "pguid": "urn:entity:jb-100024700",
         "name": "New York Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy New York / New York Western",
+        "pathname": "U.S. Bankruptcy New York / New York Western",
         "abbreviation": "Bankr. W.D.N.Y.",
         "abbreviation2": "Bankr WDNY",
         "selectedname": "New York Western (Bankruptcy)",
@@ -4173,7 +4173,7 @@
     {
         "pguid": "urn:propertyValueItem:65752DB4B398460693E746F93CCEFF73",
         "name": "U.S. Bankruptcy North Carolina",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy North Carolina",
+        "pathname": "U.S. Bankruptcy North Carolina (all)",
         "abbreviation": "Bankr. N.C.",
         "abbreviation2": "Bankr NC",
         "code": "45bc62d8d936bac0bad94cb57461ef5d",
@@ -4185,7 +4185,7 @@
     {
         "pguid": "urn:entity:jb-100024582",
         "name": "North Carolina Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy North Carolina / North Carolina Eastern",
+        "pathname": "U.S. Bankruptcy North Carolina / North Carolina Eastern",
         "abbreviation": "Bankr. E.D.N.C.",
         "abbreviation2": "Bankr EDNC",
         "selectedname": "North Carolina Eastern (Bankruptcy)",
@@ -4208,7 +4208,7 @@
     {
         "pguid": "urn:entity:jb-100024019",
         "name": "North Carolina Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy North Carolina / North Carolina Middle",
+        "pathname": "U.S. Bankruptcy North Carolina / North Carolina Middle",
         "abbreviation": "Bankr. M.D.N.C.",
         "abbreviation2": "Bankr MDNC",
         "selectedname": "North Carolina Middle (Bankruptcy)",
@@ -4231,7 +4231,7 @@
     {
         "pguid": "urn:entity:jb-100024593",
         "name": "North Carolina Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy North Carolina / North Carolina Western",
+        "pathname": "U.S. Bankruptcy North Carolina / North Carolina Western",
         "abbreviation": "Bankr. W.D.N.C.",
         "abbreviation2": "Bankr WDNC",
         "selectedname": "North Carolina Western (Bankruptcy)",
@@ -4254,7 +4254,7 @@
     {
         "pguid": "urn:entity:jb-100024555",
         "name": "U.S. Bankruptcy North Dakota",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy North Dakota",
+        "pathname": "U.S. Bankruptcy North Dakota",
         "abbreviation": "Bankr. D.N.D.",
         "abbreviation2": "Bankr DND",
         "code": "43d20f6c50c5ae997b985386d397a40e",
@@ -4276,7 +4276,7 @@
     {
         "pguid": "urn:propertyValueItem:8AC16163459242E8B20A896DB92E993D",
         "name": "U.S. Bankruptcy Ohio",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Ohio",
+        "pathname": "U.S. Bankruptcy Ohio (all)",
         "abbreviation": "Bankr. Ohio",
         "abbreviation2": "Bankr Ohio",
         "code": "70cd890591c3d4f42afb3a78b1d2dc0f",
@@ -4288,7 +4288,7 @@
     {
         "pguid": "urn:entity:jb-100024641",
         "name": "Ohio Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Ohio / Ohio Northern",
+        "pathname": "U.S. Bankruptcy Ohio / Ohio Northern",
         "abbreviation": "Bankr. N.D. Ohio",
         "abbreviation2": "Bankr ND Ohio",
         "selectedname": "Ohio Northern (Bankruptcy)",
@@ -4311,7 +4311,7 @@
     {
         "pguid": "urn:entity:jb-100024281",
         "name": "Ohio Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Ohio / Ohio Southern",
+        "pathname": "U.S. Bankruptcy Ohio / Ohio Southern",
         "abbreviation": "Bankr. S.D. Ohio",
         "abbreviation2": "Bankr SD Ohio",
         "selectedname": "Ohio Southern (Bankruptcy)",
@@ -4334,7 +4334,7 @@
     {
         "pguid": "urn:propertyValueItem:D70FF78937C6407EB79158917AD8B0A7",
         "name": "U.S. Bankruptcy Oklahoma",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Oklahoma",
+        "pathname": "U.S. Bankruptcy Oklahoma (all)",
         "abbreviation": "Bankr. Okla.",
         "abbreviation2": "Bankr Okla",
         "code": "c79cf4f3d7adf2b6f7a2419dcbe86051",
@@ -4346,7 +4346,7 @@
     {
         "pguid": "urn:entity:jb-100024561",
         "name": "Oklahoma Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Oklahoma / Oklahoma Eastern",
+        "pathname": "U.S. Bankruptcy Oklahoma / Oklahoma Eastern",
         "abbreviation": "Bankr. E.D. Okla.",
         "abbreviation2": "Bankr ED Okla",
         "selectedname": "Oklahoma Eastern (Bankruptcy)",
@@ -4369,7 +4369,7 @@
     {
         "pguid": "urn:entity:jb-100024527",
         "name": "Oklahoma Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Oklahoma / Oklahoma Northern",
+        "pathname": "U.S. Bankruptcy Oklahoma / Oklahoma Northern",
         "abbreviation": "Bankr. N.D. Okla.",
         "abbreviation2": "Bankr ND Okla",
         "selectedname": "Oklahoma Northern (Bankruptcy)",
@@ -4392,7 +4392,7 @@
     {
         "pguid": "urn:entity:jb-100024563",
         "name": "Oklahoma Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Oklahoma / Oklahoma Western",
+        "pathname": "U.S. Bankruptcy Oklahoma / Oklahoma Western",
         "abbreviation": "Bankr. W.D. Okla.",
         "abbreviation2": "Bankr WD Okla",
         "selectedname": "Oklahoma Western (Bankruptcy)",
@@ -4415,7 +4415,7 @@
     {
         "pguid": "urn:entity:jb-100024571",
         "name": "U.S. Bankruptcy Oregon",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Oregon",
+        "pathname": "U.S. Bankruptcy Oregon",
         "abbreviation": "Bankr. D. Or.",
         "abbreviation2": "Bankr D Or",
         "code": "784e86f772f8605f7ae5f686ab103ee0",
@@ -4437,7 +4437,7 @@
     {
         "pguid": "urn:propertyValueItem:0A523F051B5C4B0DBF0FFC6CD2A91F37",
         "name": "U.S. Bankruptcy Pennsylvania",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Pennsylvania",
+        "pathname": "U.S. Bankruptcy Pennsylvania (all)",
         "abbreviation": "Bankr. Pa.",
         "abbreviation2": "Bankr Pa",
         "code": "c1ea277823b62c619865259eeef0d432",
@@ -4449,7 +4449,7 @@
     {
         "pguid": "urn:entity:jb-100024551",
         "name": "Pennsylvania Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Pennsylvania / Pennsylvania Eastern",
+        "pathname": "U.S. Bankruptcy Pennsylvania / Pennsylvania Eastern",
         "abbreviation": "Bankr. E.D. Pa.",
         "abbreviation2": "Bankr ED Pa",
         "selectedname": "Pennsylvania Eastern (Bankruptcy)",
@@ -4472,7 +4472,7 @@
     {
         "pguid": "urn:entity:jb-100024702",
         "name": "Pennsylvania Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Pennsylvania / Pennsylvania Middle",
+        "pathname": "U.S. Bankruptcy Pennsylvania / Pennsylvania Middle",
         "abbreviation": "Bankr. M.D. Pa.",
         "abbreviation2": "Bankr MD Pa",
         "selectedname": "Pennsylvania Middle (Bankruptcy)",
@@ -4495,7 +4495,7 @@
     {
         "pguid": "urn:entity:jb-100024553",
         "name": "Pennsylvania Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Pennsylvania / Pennsylvania Western",
+        "pathname": "U.S. Bankruptcy Pennsylvania / Pennsylvania Western",
         "abbreviation": "Bankr. W.D. Pa.",
         "abbreviation2": "Bankr WD Pa",
         "selectedname": "Pennsylvania Western (Bankruptcy)",
@@ -4518,7 +4518,7 @@
     {
         "pguid": "urn:entity:jb-100024543",
         "name": "U.S. Bankruptcy Puerto Rico",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Puerto Rico",
+        "pathname": "U.S. Bankruptcy Puerto Rico",
         "abbreviation": "Bankr. D.P.R.",
         "abbreviation2": "Bankr DPR",
         "code": "e2f8b1a1db503eb220a4ae05c12e9722",
@@ -4540,7 +4540,7 @@
     {
         "pguid": "urn:entity:jb-100024599",
         "name": "U.S. Bankruptcy Rhode Island",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Rhode Island",
+        "pathname": "U.S. Bankruptcy Rhode Island",
         "abbreviation": "Bankr. D.R.I.",
         "abbreviation2": "Bankr DRI",
         "code": "75329de65b4b44ac9c0af6b0ffa72ed3",
@@ -4562,7 +4562,7 @@
     {
         "pguid": "urn:entity:jb-100024023",
         "name": "U.S. Bankruptcy South Carolina",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy South Carolina",
+        "pathname": "U.S. Bankruptcy South Carolina",
         "abbreviation": "Bankr. D.S.C.",
         "abbreviation2": "Bankr DSC",
         "code": "f898227b1651091844e9b06cbdff0e28",
@@ -4584,7 +4584,7 @@
     {
         "pguid": "urn:entity:jb-100024704",
         "name": "U.S. Bankruptcy South Dakota",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy South Dakota",
+        "pathname": "U.S. Bankruptcy South Dakota",
         "abbreviation": "Bankr. D.S.D.",
         "abbreviation2": "Bankr DSD",
         "code": "5f151abc6e0de48075f9774f0dddc5ad",
@@ -4606,7 +4606,7 @@
     {
         "pguid": "urn:propertyValueItem:FD219D5D388A48878D8CD1A1DA28A290",
         "name": "U.S. Bankruptcy Tennessee",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Tennessee",
+        "pathname": "U.S. Bankruptcy Tennessee (all)",
         "abbreviation": "Bankr. Tenn.",
         "abbreviation2": "Bankr Tenn",
         "code": "586fd132b733472bd303dd1cbec0f920",
@@ -4618,7 +4618,7 @@
     {
         "pguid": "urn:entity:jb-100024645",
         "name": "Tennessee Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Tennessee / Tennessee Eastern",
+        "pathname": "U.S. Bankruptcy Tennessee / Tennessee Eastern",
         "abbreviation": "Bankr. E.D. Tenn.",
         "abbreviation2": "Bankr ED Tenn",
         "selectedname": "Tennessee Eastern (Bankruptcy)",
@@ -4641,7 +4641,7 @@
     {
         "pguid": "urn:entity:jb-100024321",
         "name": "Tennessee Middle",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Tennessee / Tennessee Middle",
+        "pathname": "U.S. Bankruptcy Tennessee / Tennessee Middle",
         "abbreviation": "Bankr. M.D. Tenn.",
         "abbreviation2": "Bankr MD Tenn",
         "selectedname": "Tennessee Middle (Bankruptcy)",
@@ -4664,7 +4664,7 @@
     {
         "pguid": "urn:entity:jb-100024652",
         "name": "Tennessee Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Tennessee / Tennessee Western",
+        "pathname": "U.S. Bankruptcy Tennessee / Tennessee Western",
         "abbreviation": "Bankr. W.D. Tenn.",
         "abbreviation2": "Bankr WD Tenn",
         "selectedname": "Tennessee Western (Bankruptcy)",
@@ -4687,7 +4687,7 @@
     {
         "pguid": "urn:propertyValueItem:2B0A0C386B404DD28BA83C08E7C783FD",
         "name": "U.S. Bankruptcy Texas",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Texas",
+        "pathname": "U.S. Bankruptcy Texas (all)",
         "abbreviation": "Bankr. Tex.",
         "abbreviation2": "Bankr Tex",
         "code": "f0e5b0d798fbaca374b6355a2df7e147",
@@ -4699,7 +4699,7 @@
     {
         "pguid": "urn:entity:jb-100024173",
         "name": "Texas Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Texas / Texas Eastern",
+        "pathname": "U.S. Bankruptcy Texas / Texas Eastern",
         "abbreviation": "Bankr. E.D. Tex.",
         "abbreviation2": "Bankr ED Tex",
         "selectedname": "Texas Eastern (Bankruptcy)",
@@ -4722,7 +4722,7 @@
     {
         "pguid": "urn:entity:jb-100024621",
         "name": "Texas Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Texas / Texas Northern",
+        "pathname": "U.S. Bankruptcy Texas / Texas Northern",
         "abbreviation": "Bankr. N.D. Tex.",
         "abbreviation2": "Bankr ND Tex",
         "selectedname": "Texas Northern (Bankruptcy)",
@@ -4745,7 +4745,7 @@
     {
         "pguid": "urn:entity:jb-500000556",
         "name": "Texas Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Texas / Texas Southern",
+        "pathname": "U.S. Bankruptcy Texas / Texas Southern",
         "abbreviation": "Bankr. S.D. Tex.",
         "abbreviation2": "Bankr SD Tex",
         "selectedname": "Texas Southern (Bankruptcy)",
@@ -4768,7 +4768,7 @@
     {
         "pguid": "urn:entity:jb-100024625",
         "name": "Texas Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Texas / Texas Western",
+        "pathname": "U.S. Bankruptcy Texas / Texas Western",
         "abbreviation": "Bankr. W.D. Tex.",
         "abbreviation2": "Bankr WD Tex",
         "selectedname": "Texas Western (Bankruptcy)",
@@ -4791,7 +4791,7 @@
     {
         "pguid": "urn:entity:jb-100024529",
         "name": "U.S. Bankruptcy Utah",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Utah",
+        "pathname": "U.S. Bankruptcy Utah",
         "abbreviation": "Bankr. D. Utah",
         "abbreviation2": "Bankr D Utah",
         "code": "12ac85f2139f206eae47c49e413b9fb4",
@@ -4813,7 +4813,7 @@
     {
         "pguid": "urn:entity:jb-100024706",
         "name": "U.S. Bankruptcy Vermont",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Vermont",
+        "pathname": "U.S. Bankruptcy Vermont",
         "abbreviation": "Bankr. D. Vt.",
         "abbreviation2": "Bankr D Vt",
         "code": "5af263102b8345401ee6e68d2733315e",
@@ -4835,7 +4835,7 @@
     {
         "pguid": "urn:entity:jb-500000557",
         "name": "U.S. Bankruptcy Virgin Islands",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Virgin Islands",
+        "pathname": "U.S. Bankruptcy Virgin Islands",
         "abbreviation": "Bankr. D.V.I.",
         "abbreviation2": "Bankr DVI",
         "code": "3b99237e6366e34c758cfcfe3e17ebad",
@@ -4857,7 +4857,7 @@
     {
         "pguid": "urn:propertyValueItem:E3983D33637745FC8EA91A0D47BF0EFD",
         "name": "U.S. Bankruptcy Virginia",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Virginia",
+        "pathname": "U.S. Bankruptcy Virginia (all)",
         "abbreviation": "Bankr. Va.",
         "abbreviation2": "Bankr Va",
         "code": "0b62f6a0a10d19fdf71d3ad1bb6e9afa",
@@ -4869,7 +4869,7 @@
     {
         "pguid": "urn:entity:jb-100024596",
         "name": "Virginia Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Virginia / Virginia Eastern",
+        "pathname": "U.S. Bankruptcy Virginia / Virginia Eastern",
         "abbreviation": "Bankr. E.D. Va.",
         "abbreviation2": "Bankr ED Va",
         "selectedname": "Virginia Eastern (Bankruptcy)",
@@ -4892,7 +4892,7 @@
     {
         "pguid": "urn:entity:jb-100024110",
         "name": "Virginia Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Virginia / Virginia Western",
+        "pathname": "U.S. Bankruptcy Virginia / Virginia Western",
         "abbreviation": "Bankr. W.D. Va.",
         "abbreviation2": "Bankr WD Va",
         "selectedname": "Virginia Western (Bankruptcy)",
@@ -4915,7 +4915,7 @@
     {
         "pguid": "urn:propertyValueItem:5100E978558E4E82B9F36950B6A68794",
         "name": "U.S. Bankruptcy Washington",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Washington",
+        "pathname": "U.S. Bankruptcy Washington (all)",
         "abbreviation": "Bankr. Wash.",
         "abbreviation2": "Bankr Wash",
         "code": "719805e67c5ec6211a9775d063977a71",
@@ -4927,7 +4927,7 @@
     {
         "pguid": "urn:entity:jb-100024520",
         "name": "Washington Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Washington / Washington Eastern",
+        "pathname": "U.S. Bankruptcy Washington / Washington Eastern",
         "abbreviation": "Bankr. E.D. Wash.",
         "abbreviation2": "Bankr ED Wash",
         "selectedname": "Washington Eastern (Bankruptcy)",
@@ -4950,7 +4950,7 @@
     {
         "pguid": "urn:entity:jb-100024557",
         "name": "Washington Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Washington / Washington Western",
+        "pathname": "U.S. Bankruptcy Washington / Washington Western",
         "abbreviation": "Bankr. W.D. Wash.",
         "abbreviation2": "Bankr WD Wash",
         "selectedname": "Washington Western (Bankruptcy)",
@@ -4973,7 +4973,7 @@
     {
         "pguid": "urn:propertyValueItem:89242729DCD74C528EB0C0173AF96795",
         "name": "U.S. Bankruptcy West Virginia",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy West Virginia",
+        "pathname": "U.S. Bankruptcy West Virginia (all)",
         "abbreviation": "Bankr. W. Va.",
         "abbreviation2": "Bankr W Va",
         "code": "3719015a2191d10afa2037119f74a94c",
@@ -4985,7 +4985,7 @@
     {
         "pguid": "urn:entity:jb-100024602",
         "name": "West Virginia Northern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy West Virginia / West Virginia Northern",
+        "pathname": "U.S. Bankruptcy West Virginia / West Virginia Northern",
         "abbreviation": "Bankr. N.D.W. Va.",
         "abbreviation2": "Bankr NDW Va",
         "selectedname": "West Virginia Northern (Bankruptcy)",
@@ -5008,7 +5008,7 @@
     {
         "pguid": "urn:entity:jb-100024613",
         "name": "West Virginia Southern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy West Virginia / West Virginia Southern",
+        "pathname": "U.S. Bankruptcy West Virginia / West Virginia Southern",
         "abbreviation": "Bankr. S.D.W. Va.",
         "abbreviation2": "Bankr SDW Va",
         "selectedname": "West Virginia Southern (Bankruptcy)",
@@ -5031,7 +5031,7 @@
     {
         "pguid": "urn:propertyValueItem:CEB3A3F2FE0C45B78AB2A9D0C5BA8E22",
         "name": "U.S. Bankruptcy Wisconsin",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Wisconsin",
+        "pathname": "U.S. Bankruptcy Wisconsin (all)",
         "abbreviation": "Bankr. Wis.",
         "abbreviation2": "Bankr Wis",
         "code": "281fb37663c49da936c42f3b1e16c7c8",
@@ -5043,7 +5043,7 @@
     {
         "pguid": "urn:entity:jb-100024666",
         "name": "Wisconsin Eastern",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Wisconsin / Wisconsin Eastern",
+        "pathname": "U.S. Bankruptcy Wisconsin / Wisconsin Eastern",
         "abbreviation": "Bankr. E.D. Wis.",
         "abbreviation2": "Bankr ED Wis",
         "selectedname": "Wisconsin Eastern (Bankruptcy)",
@@ -5066,7 +5066,7 @@
     {
         "pguid": "urn:entity:jb-100024501",
         "name": "Wisconsin Western",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Wisconsin / Wisconsin Western",
+        "pathname": "U.S. Bankruptcy Wisconsin / Wisconsin Western",
         "abbreviation": "Bankr. W.D. Wis.",
         "abbreviation2": "Bankr WD Wis",
         "selectedname": "Wisconsin Western (Bankruptcy)",
@@ -5089,7 +5089,7 @@
     {
         "pguid": "urn:entity:jb-100024565",
         "name": "U.S. Bankruptcy Wyoming",
-        "pathname": "United States / U.S. Bankruptcy Courts / U.S. Bankruptcy Wyoming",
+        "pathname": "U.S. Bankruptcy Wyoming",
         "abbreviation": "Bankr. D. Wyo.",
         "abbreviation2": "Bankr D Wyo",
         "code": "406ddc0eff43052e8fe2a8f211e82cb7",
@@ -5111,7 +5111,7 @@
     {
         "pguid": "urn:entity:jb-100001719",
         "name": "U.S. Circuit Court of Appeals",
-        "pathname": "United States / U.S. Circuit Court of Appeals",
+        "pathname": "U.S. Circuit Court of Appeals (all)",
         "abbreviation": "Cir.",
         "abbreviation2": "Cir",
         "selectedname": "U.S. Circuit Court of Appeals (United States)",
@@ -5125,7 +5125,7 @@
     {
         "pguid": "urn:entity:jb-100000287",
         "name": "1st Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 1st Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 1st Circuit",
         "abbreviation": "1st Cir.",
         "abbreviation2": "1st Cir",
         "code": "93ec5b5cbf129e19e5026b27c07f69dd",
@@ -5148,7 +5148,7 @@
     {
         "pguid": "urn:entity:jb-100008463",
         "name": "1st Circuit - BAP",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 1st Circuit - BAP",
+        "pathname": "U.S. Circuit Court of Appeals / 1st Circuit - BAP",
         "abbreviation": "1st Cir. B.A.P.",
         "abbreviation2": "1st Cir BAP",
         "code": "b22b782a047ae99f16ddcddf32fd3589",
@@ -5171,7 +5171,7 @@
     {
         "pguid": "urn:entity:jb-100000293",
         "name": "2nd Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 2nd Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 2nd Circuit",
         "abbreviation": "2d Cir.",
         "abbreviation2": "2d Cir",
         "code": "56b12bf570eaf47a6309c055ead6998d",
@@ -5194,7 +5194,7 @@
     {
         "pguid": "urn:entity:jb-100000299",
         "name": "3rd Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 3rd Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 3rd Circuit",
         "abbreviation": "3d Cir.",
         "abbreviation2": "3d Cir",
         "code": "20b667d388bb26ebf6e3a67b424e64dc",
@@ -5217,7 +5217,7 @@
     {
         "pguid": "urn:entity:jb-100000307",
         "name": "4th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 4th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 4th Circuit",
         "abbreviation": "4th Cir.",
         "abbreviation2": "4th Cir",
         "code": "86d0be27b657d44b27fce29dc161d117",
@@ -5240,7 +5240,7 @@
     {
         "pguid": "urn:entity:jb-100000408",
         "name": "5th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 5th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 5th Circuit",
         "abbreviation": "5th Cir.",
         "abbreviation2": "5th Cir",
         "code": "f37e69d082f4ecc6e645b4593750ae6b",
@@ -5263,7 +5263,7 @@
     {
         "pguid": "urn:entity:jb-100000326",
         "name": "6th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 6th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 6th Circuit",
         "abbreviation": "6th Cir.",
         "abbreviation2": "6th Cir",
         "code": "9cc6a8814f03d8fdada1cc71748822cd",
@@ -5286,7 +5286,7 @@
     {
         "pguid": "urn:entity:jb-100000336",
         "name": "7th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 7th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 7th Circuit",
         "abbreviation": "7th Cir.",
         "abbreviation2": "7th Cir",
         "code": "c255010ca64df5bf560daa383fca4c3d",
@@ -5309,7 +5309,7 @@
     {
         "pguid": "urn:entity:jb-100000436",
         "name": "8th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 8th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 8th Circuit",
         "abbreviation": "8th Cir.",
         "abbreviation2": "8th Cir",
         "code": "175a9d377f40aa18c148dc0ac127a2ff",
@@ -5332,7 +5332,7 @@
     {
         "pguid": "urn:entity:jb-100000446",
         "name": "9th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 9th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 9th Circuit",
         "abbreviation": "9th Cir.",
         "abbreviation2": "9th Cir",
         "code": "bbbaf0cd2409c6b2ca0e22e37949382b",
@@ -5355,7 +5355,7 @@
     {
         "pguid": "urn:entity:jb-100001733",
         "name": "9th Circuit - BAP",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 9th Circuit - BAP",
+        "pathname": "U.S. Circuit Court of Appeals / 9th Circuit - BAP",
         "abbreviation": "9th Cir. B.A.P.",
         "abbreviation2": "9th Cir BAP",
         "code": "466b19c1d4de64ad011864f2f603d108",
@@ -5378,7 +5378,7 @@
     {
         "pguid": "urn:entity:jb-100000463",
         "name": "10th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 10th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 10th Circuit",
         "abbreviation": "10th Cir.",
         "abbreviation2": "10th Cir",
         "code": "748761d25cc6cdd1d923807e43d81f87",
@@ -5401,7 +5401,7 @@
     {
         "pguid": "urn:entity:jb-100003303",
         "name": "10th Circuit - BAP",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 10th Circuit - BAP",
+        "pathname": "U.S. Circuit Court of Appeals / 10th Circuit - BAP",
         "abbreviation": "10th Cir. B.A.P.",
         "abbreviation2": "10th Cir BAP",
         "code": "2b54bd5796b2c147f837d037ce1a6bdb",
@@ -5424,7 +5424,7 @@
     {
         "pguid": "urn:entity:jb-100000472",
         "name": "11th Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / 11th Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / 11th Circuit",
         "abbreviation": "11th Cir.",
         "abbreviation2": "11th Cir",
         "code": "71431b89eae828f02a412e5377a108c9",
@@ -5447,7 +5447,7 @@
     {
         "pguid": "urn:entity:jb-100000374",
         "name": "D.C. Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / D.C. Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / D.C. Circuit",
         "abbreviation": "D.C. Cir.",
         "abbreviation2": "DC Cir",
         "code": "1c9af8ea4b1a61cc04372fafd34b959f",
@@ -5470,7 +5470,7 @@
     {
         "pguid": "urn:entity:jb-100000375",
         "name": "Federal Circuit",
-        "pathname": "United States / U.S. Circuit Court of Appeals / Federal Circuit",
+        "pathname": "U.S. Circuit Court of Appeals / Federal Circuit",
         "abbreviation": "Fed. Cir.",
         "abbreviation2": "Fed Cir",
         "code": "5875c70a3d92dc7369192fe49af0678b",
@@ -5493,7 +5493,7 @@
     {
         "pguid": "urn:entity:jb-100000278",
         "name": "U.S. Court of Appeals for Veterans Claims",
-        "pathname": "United States / U.S. Court of Appeals for Veterans Claims",
+        "pathname": "U.S. Court of Appeals for Veterans Claims",
         "abbreviation": "Vet. App.",
         "abbreviation2": "Vet App",
         "code": "31e2d30dcd2995fafd6c3749a59b3638",
@@ -5516,7 +5516,7 @@
     {
         "pguid": "urn:entity:jb-100000276",
         "name": "U.S. Court of Federal Claims",
-        "pathname": "United States / U.S. Court of Federal Claims",
+        "pathname": "U.S. Court of Federal Claims",
         "abbreviation": "Fed. Cl.",
         "abbreviation2": "Fed Cl",
         "code": "60c24f2bcdb12895f526409a4f68dd5f",
@@ -5539,7 +5539,7 @@
     {
         "pguid": "urn:entity:jb-100000368",
         "name": "U.S. Court of International Trade",
-        "pathname": "United States / U.S. Court of International Trade",
+        "pathname": "U.S. Court of International Trade",
         "abbreviation": "Ct. Intl. Trade",
         "abbreviation2": "Ct Intl Trade",
         "code": "235604a28e3485181379422f9d6897ae",
@@ -5563,8 +5563,8 @@
     {
         "pguid": "urn:entity:jb-100005673",
         "name": "U.S. District Courts",
-        "pathname": "United States / U.S. District Courts",
-        "abbreviation": "D.",
+        "pathname": "U.S. District Courts (all)",
+        "abbreviation": "D. ",
         "abbreviation2": "D",
         "selectedname": "U.S. District Courts (United States)",
         "code": "162dd46b03bce7d66ca232c192c7cd43",
@@ -5575,7 +5575,7 @@
     {
         "pguid": "urn:entity:jb-100017063",
         "name": "U.S. District Alabama",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Alabama",
+        "pathname": "U.S. District Courts / Civil / Alabama (all)",
         "abbreviation": "Ala.",
         "abbreviation2": "Ala",
         "selectedname": "U.S. District Alabama (Civil)",
@@ -5592,7 +5592,7 @@
     {
         "pguid": "urn:entity:jb-100000474",
         "name": "Alabama Middle",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Alabama / Alabama Middle",
+        "pathname": "U.S. District Courts / Civil / Alabama / Alabama Middle",
         "abbreviation": "M.D. Ala.",
         "abbreviation2": "MD Ala",
         "selectedname": "Alabama Middle (Civil)",
@@ -5618,7 +5618,7 @@
     {
         "pguid": "urn:entity:jb-100000099",
         "name": "Alabama Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Alabama / Alabama Northern",
+        "pathname": "U.S. District Courts / Civil / Alabama / Alabama Northern",
         "abbreviation": "N.D. Ala.",
         "abbreviation2": "ND Ala",
         "selectedname": "Alabama Northern (Civil)",
@@ -5644,7 +5644,7 @@
     {
         "pguid": "urn:entity:jb-100000476",
         "name": "Alabama Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Alabama / Alabama Southern",
+        "pathname": "U.S. District Courts / Civil / Alabama / Alabama Southern",
         "abbreviation": "S.D. Ala.",
         "abbreviation2": "SD Ala",
         "selectedname": "Alabama Southern (Civil)",
@@ -5670,7 +5670,7 @@
     {
         "pguid": "urn:entity:jb-100000358",
         "name": "U.S. District Alaska",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Alaska",
+        "pathname": "U.S. District Courts / Civil / Alaska",
         "abbreviation": "D. Alaska",
         "abbreviation2": "D Alaska",
         "selectedname": "U.S. District Alaska (Civil)",
@@ -5696,7 +5696,7 @@
     {
         "pguid": "urn:entity:jb-100000448",
         "name": "U.S. District Arizona",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Arizona",
+        "pathname": "U.S. District Courts / Civil / Arizona",
         "abbreviation": "D. Ariz.",
         "abbreviation2": "D Ariz",
         "selectedname": "U.S. District Arizona (Civil)",
@@ -5722,7 +5722,7 @@
     {
         "pguid": "urn:entity:jb-100017062",
         "name": "U.S. District Arkansas",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Arkansas",
+        "pathname": "U.S. District Courts / Civil / Arkansas (all)",
         "abbreviation": "Ark.",
         "abbreviation2": "Ark",
         "selectedname": "U.S. District Arkansas (Civil)",
@@ -5739,7 +5739,7 @@
     {
         "pguid": "urn:entity:jb-100000438",
         "name": "Arkansas Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Arkansas / Arkansas Eastern",
+        "pathname": "U.S. District Courts / Civil / Arkansas / Arkansas Eastern",
         "abbreviation": "E.D. Ariz.",
         "abbreviation2": "ED Ariz",
         "selectedname": "Arkansas Eastern (Civil)",
@@ -5765,7 +5765,7 @@
     {
         "pguid": "urn:entity:jb-100000346",
         "name": "Arkansas Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Arkansas / Arkansas Western",
+        "pathname": "U.S. District Courts / Civil / Arkansas / Arkansas Western",
         "abbreviation": "W.D. Ariz.",
         "abbreviation2": "WD Ariz",
         "selectedname": "Arkansas Western (Civil)",
@@ -5791,7 +5791,7 @@
     {
         "pguid": "urn:entity:jb-100017064",
         "name": "U.S. District California",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District California",
+        "pathname": "U.S. District Courts / Civil / California (all)",
         "abbreviation": "Cal.",
         "abbreviation2": "Cal",
         "selectedname": "U.S. District California (Civil)",
@@ -5808,7 +5808,7 @@
     {
         "pguid": "urn:entity:jb-100000449",
         "name": "California Central",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District California / California Central",
+        "pathname": "U.S. District Courts / Civil / California / California Central",
         "abbreviation": "C.D. Cal.",
         "abbreviation2": "CD Cal",
         "selectedname": "California Central (Civil)",
@@ -5834,7 +5834,7 @@
     {
         "pguid": "urn:entity:jb-100000360",
         "name": "California Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District California / California Eastern",
+        "pathname": "U.S. District Courts / Civil / California / California Eastern",
         "abbreviation": "E.D. Cal.",
         "abbreviation2": "ED Cal",
         "selectedname": "California Eastern (Civil)",
@@ -5860,7 +5860,7 @@
     {
         "pguid": "urn:entity:jb-100000451",
         "name": "California Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District California / California Northern",
+        "pathname": "U.S. District Courts / Civil / California / California Northern",
         "abbreviation": "N.D. Cal.",
         "abbreviation2": "ND Cal",
         "selectedname": "California Northern (Civil)",
@@ -5886,7 +5886,7 @@
     {
         "pguid": "urn:entity:jb-100000362",
         "name": "California Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District California / California Southern",
+        "pathname": "U.S. District Courts / Civil / California / California Southern",
         "abbreviation": "S.D. Cal.",
         "abbreviation2": "SD Cal",
         "selectedname": "California Southern (Civil)",
@@ -5912,7 +5912,7 @@
     {
         "pguid": "urn:entity:jb-100000090",
         "name": "U.S. District Colorado",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Colorado",
+        "pathname": "U.S. District Courts / Civil / Colorado",
         "abbreviation": "D. Colo.",
         "abbreviation2": "D Colo",
         "selectedname": "U.S. District Colorado (Civil)",
@@ -5938,7 +5938,7 @@
     {
         "pguid": "urn:entity:jb-100000383",
         "name": "U.S. District Connecticut",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Connecticut",
+        "pathname": "U.S. District Courts / Civil / Connecticut",
         "abbreviation": "D. Conn.",
         "abbreviation2": "D Conn",
         "selectedname": "U.S. District Connecticut (Civil)",
@@ -5964,7 +5964,7 @@
     {
         "pguid": "urn:entity:jb-100000391",
         "name": "U.S. District Delaware",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Delaware",
+        "pathname": "U.S. District Courts / Civil / Delaware",
         "abbreviation": "D. Del.",
         "abbreviation2": "D Del",
         "selectedname": "U.S. District Delaware (Civil)",
@@ -5990,7 +5990,7 @@
     {
         "pguid": "urn:entity:jb-100000284",
         "name": "U.S. District D.C.",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District D.C.",
+        "pathname": "U.S. District Courts / Civil / D.C.",
         "abbreviation": "D.D.C.",
         "abbreviation2": "DDC",
         "selectedname": "U.S. District D.C. (Civil)",
@@ -6016,7 +6016,7 @@
     {
         "pguid": "urn:entity:jb-100017130",
         "name": "U.S. District Florida",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Florida",
+        "pathname": "U.S. District Courts / Civil / Florida (all)",
         "abbreviation": "Fla.",
         "abbreviation2": "Fla",
         "selectedname": "U.S. District Florida (Civil)",
@@ -6033,7 +6033,7 @@
     {
         "pguid": "urn:entity:jb-100000477",
         "name": "Florida Middle",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Florida / Florida Middle",
+        "pathname": "U.S. District Courts / Civil / Florida / Florida Middle",
         "abbreviation": "M.D. Fla.",
         "abbreviation2": "MD Fla",
         "selectedname": "Florida Middle (Civil)",
@@ -6059,7 +6059,7 @@
     {
         "pguid": "urn:entity:jb-100000101",
         "name": "Florida Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Florida / Florida Northern",
+        "pathname": "U.S. District Courts / Civil / Florida / Florida Northern",
         "abbreviation": "N.D. Fla.",
         "abbreviation2": "ND Fla",
         "selectedname": "Florida Northern (Civil)",
@@ -6085,7 +6085,7 @@
     {
         "pguid": "urn:entity:jb-100000479",
         "name": "Florida Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Florida / Florida Southern",
+        "pathname": "U.S. District Courts / Civil / Florida / Florida Southern",
         "abbreviation": "S.D. Fla.",
         "abbreviation2": "SD Fla",
         "selectedname": "Florida Southern (Civil)",
@@ -6111,7 +6111,7 @@
     {
         "pguid": "urn:entity:jb-100017065",
         "name": "U.S. District Georgia",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Georgia",
+        "pathname": "U.S. District Courts / Civil / Georgia (all)",
         "abbreviation": "Ga.",
         "abbreviation2": "Ga",
         "selectedname": "U.S. District Georgia (Civil)",
@@ -6128,7 +6128,7 @@
     {
         "pguid": "urn:entity:jb-100000481",
         "name": "Georgia Middle",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Georgia / Georgia Middle",
+        "pathname": "U.S. District Courts / Civil / Georgia / Georgia Middle",
         "abbreviation": "M.D. Ga.",
         "abbreviation2": "MD Ga",
         "selectedname": "Georgia Middle (Civil)",
@@ -6154,7 +6154,7 @@
     {
         "pguid": "urn:entity:jb-100000104",
         "name": "Georgia Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Georgia / Georgia Northern",
+        "pathname": "U.S. District Courts / Civil / Georgia / Georgia Northern",
         "abbreviation": "N.D. Ga.",
         "abbreviation2": "ND Ga",
         "selectedname": "Georgia Northern (Civil)",
@@ -6180,7 +6180,7 @@
     {
         "pguid": "urn:entity:jb-100000483",
         "name": "Georgia Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Georgia / Georgia Southern",
+        "pathname": "U.S. District Courts / Civil / Georgia / Georgia Southern",
         "abbreviation": "S.D. Ga.",
         "abbreviation2": "SD Ga",
         "selectedname": "Georgia Southern (Civil)",
@@ -6206,7 +6206,7 @@
     {
         "pguid": "urn:entity:jb-100000453",
         "name": "U.S. District Guam",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Guam",
+        "pathname": "U.S. District Courts / Civil / Guam",
         "abbreviation": "D. Guam",
         "abbreviation2": "D Guam",
         "selectedname": "U.S. District Guam (Civil)",
@@ -6232,7 +6232,7 @@
     {
         "pguid": "urn:entity:jb-100000363",
         "name": "U.S. District Hawaii",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Hawaii",
+        "pathname": "U.S. District Courts / Civil / Hawaii",
         "abbreviation": "D. Haw.",
         "abbreviation2": "D Haw",
         "selectedname": "U.S. District Hawaii (Civil)",
@@ -6258,7 +6258,7 @@
     {
         "pguid": "urn:entity:jb-100000455",
         "name": "U.S. District Idaho",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Idaho",
+        "pathname": "U.S. District Courts / Civil / Idaho",
         "abbreviation": "D. Idaho",
         "abbreviation2": "D Idaho",
         "selectedname": "U.S. District Idaho (Civil)",
@@ -6284,7 +6284,7 @@
     {
         "pguid": "urn:entity:jb-100017066",
         "name": "U.S. District Illinois",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Illinois",
+        "pathname": "U.S. District Courts / Civil / Illinois (all)",
         "abbreviation": "Ill.",
         "abbreviation2": "Ill",
         "selectedname": "U.S. District Illinois (Civil)",
@@ -6301,7 +6301,7 @@
     {
         "pguid": "urn:entity:jb-100000337",
         "name": "Illinois Central",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Illinois / Illinois Central",
+        "pathname": "U.S. District Courts / Civil / Illinois / Illinois Central",
         "abbreviation": "C.D. Ill.",
         "abbreviation2": "CD Ill",
         "selectedname": "Illinois Central (Civil)",
@@ -6327,7 +6327,7 @@
     {
         "pguid": "urn:entity:jb-100000430",
         "name": "Illinois Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Illinois / Illinois Northern",
+        "pathname": "U.S. District Courts / Civil / Illinois / Illinois Northern",
         "abbreviation": "N.D. Ill.",
         "abbreviation2": "ND Ill",
         "selectedname": "Illinois Northern (Civil)",
@@ -6353,7 +6353,7 @@
     {
         "pguid": "urn:entity:jb-100000339",
         "name": "Illinois Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Illinois / Illinois Southern",
+        "pathname": "U.S. District Courts / Civil / Illinois / Illinois Southern",
         "abbreviation": "S.D. Ill.",
         "abbreviation2": "SD Ill",
         "selectedname": "Illinois Southern (Civil)",
@@ -6379,7 +6379,7 @@
     {
         "pguid": "urn:entity:jb-100017081",
         "name": "U.S. District Indiana",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Indiana",
+        "pathname": "U.S. District Courts / Civil / Indiana (all)",
         "abbreviation": "Ind.",
         "abbreviation2": "Ind",
         "selectedname": "U.S. District Indiana (Civil)",
@@ -6396,7 +6396,7 @@
     {
         "pguid": "urn:entity:jb-100000341",
         "name": "Indiana Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Indiana / Indiana Northern",
+        "pathname": "U.S. District Courts / Civil / Indiana / Indiana Northern",
         "abbreviation": "N.D. Ind.",
         "abbreviation2": "ND Ind",
         "selectedname": "Indiana Northern (Civil)",
@@ -6422,7 +6422,7 @@
     {
         "pguid": "urn:entity:jb-100000432",
         "name": "Indiana Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Indiana / Indiana Southern",
+        "pathname": "U.S. District Courts / Civil / Indiana / Indiana Southern",
         "abbreviation": "S.D. Ind.",
         "abbreviation2": "SD Ind",
         "selectedname": "Indiana Southern (Civil)",
@@ -6448,7 +6448,7 @@
     {
         "pguid": "urn:entity:jb-100017082",
         "name": "U.S. District Iowa",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Iowa",
+        "pathname": "U.S. District Courts / Civil / Iowa (all)",
         "abbreviation": "Iowa",
         "abbreviation2": "Iowa",
         "selectedname": "U.S. District Iowa (Civil)",
@@ -6465,7 +6465,7 @@
     {
         "pguid": "urn:entity:jb-100000347",
         "name": "Iowa Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Iowa / Iowa Northern",
+        "pathname": "U.S. District Courts / Civil / Iowa / Iowa Northern",
         "abbreviation": "N.D. Iowa",
         "abbreviation2": "ND Iowa",
         "selectedname": "Iowa Northern (Civil)",
@@ -6491,7 +6491,7 @@
     {
         "pguid": "urn:entity:jb-100000440",
         "name": "Iowa Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Iowa / Iowa Southern",
+        "pathname": "U.S. District Courts / Civil / Iowa / Iowa Southern",
         "abbreviation": "S.D. Iowa",
         "abbreviation2": "SD Iowa",
         "selectedname": "Iowa Southern (Civil)",
@@ -6517,7 +6517,7 @@
     {
         "pguid": "urn:entity:jb-100000466",
         "name": "U.S. District Kansas",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Kansas",
+        "pathname": "U.S. District Courts / Civil / Kansas",
         "abbreviation": "D. Kan.",
         "abbreviation2": "D Kan",
         "selectedname": "U.S. District Kansas (Civil)",
@@ -6543,7 +6543,7 @@
     {
         "pguid": "urn:entity:jb-100017131",
         "name": "U.S. District Kentucky",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Kentucky",
+        "pathname": "U.S. District Courts / Civil / Kentucky (all)",
         "abbreviation": "Ky.",
         "abbreviation2": "Ky",
         "selectedname": "U.S. District Kentucky (Civil)",
@@ -6560,7 +6560,7 @@
     {
         "pguid": "urn:entity:jb-100000328",
         "name": "Kentucky Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Kentucky / Kentucky Eastern",
+        "pathname": "U.S. District Courts / Civil / Kentucky / Kentucky Eastern",
         "abbreviation": "E.D. Ky.",
         "abbreviation2": "ED Ky",
         "selectedname": "Kentucky Eastern (Civil)",
@@ -6586,7 +6586,7 @@
     {
         "pguid": "urn:entity:jb-100000420",
         "name": "Kentucky Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Kentucky / Kentucky Western",
+        "pathname": "U.S. District Courts / Civil / Kentucky / Kentucky Western",
         "abbreviation": "W.D. Ky.",
         "abbreviation2": "WD Ky",
         "selectedname": "Kentucky Western (Civil)",
@@ -6612,7 +6612,7 @@
     {
         "pguid": "urn:entity:jb-100017083",
         "name": "U.S. District Louisiana",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Louisiana",
+        "pathname": "U.S. District Courts / Civil / Louisiana (all)",
         "abbreviation": "La.",
         "abbreviation2": "La",
         "selectedname": "U.S. District Louisiana (Civil)",
@@ -6629,7 +6629,7 @@
     {
         "pguid": "urn:entity:jb-100000410",
         "name": "Louisiana Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Louisiana / Louisiana Eastern",
+        "pathname": "U.S. District Courts / Civil / Louisiana / Louisiana Eastern",
         "abbreviation": "E.D. La.",
         "abbreviation2": "ED La",
         "selectedname": "Louisiana Eastern (Civil)",
@@ -6655,7 +6655,7 @@
     {
         "pguid": "urn:entity:jb-100000317",
         "name": "Louisiana Middle",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Louisiana / Louisiana Middle",
+        "pathname": "U.S. District Courts / Civil / Louisiana / Louisiana Middle",
         "abbreviation": "M.D. La.",
         "abbreviation2": "MD La",
         "selectedname": "Louisiana Middle (Civil)",
@@ -6681,7 +6681,7 @@
     {
         "pguid": "urn:entity:jb-100000412",
         "name": "Louisiana Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Louisiana / Louisiana Western",
+        "pathname": "U.S. District Courts / Civil / Louisiana / Louisiana Western",
         "abbreviation": "W.D. La.",
         "abbreviation2": "WD La",
         "selectedname": "Louisiana Western (Civil)",
@@ -6707,7 +6707,7 @@
     {
         "pguid": "urn:entity:jb-100000378",
         "name": "U.S. District Maine",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Maine",
+        "pathname": "U.S. District Courts / Civil / Maine",
         "abbreviation": "D. Me.",
         "abbreviation2": "D Me",
         "selectedname": "U.S. District Maine (Civil)",
@@ -6733,7 +6733,7 @@
     {
         "pguid": "urn:entity:jb-100000398",
         "name": "U.S. District Maryland",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Maryland",
+        "pathname": "U.S. District Courts / Civil / Maryland",
         "abbreviation": "D. Md.",
         "abbreviation2": "D Md",
         "selectedname": "U.S. District Maryland (Civil)",
@@ -6759,7 +6759,7 @@
     {
         "pguid": "urn:entity:jb-100000289",
         "name": "U.S. District Massachusetts",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Massachusetts",
+        "pathname": "U.S. District Courts / Civil / Massachusetts",
         "abbreviation": "D. Mass",
         "abbreviation2": "D Mass",
         "selectedname": "U.S. District Massachusetts (Civil)",
@@ -6785,7 +6785,7 @@
     {
         "pguid": "urn:entity:jb-100017104",
         "name": "U.S. District Michigan",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Michigan",
+        "pathname": "U.S. District Courts / Civil / Michigan (all)",
         "abbreviation": "Mich.",
         "abbreviation2": "Mich",
         "selectedname": "U.S. District Michigan (Civil)",
@@ -6802,7 +6802,7 @@
     {
         "pguid": "urn:entity:jb-100000422",
         "name": "Michigan Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Michigan / Michigan Eastern",
+        "pathname": "U.S. District Courts / Civil / Michigan / Michigan Eastern",
         "abbreviation": "E.D. Mich.",
         "abbreviation2": "ED Mich",
         "selectedname": "Michigan Eastern (Civil)",
@@ -6828,7 +6828,7 @@
     {
         "pguid": "urn:entity:jb-100000330",
         "name": "Michigan Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Michigan / Michigan Western",
+        "pathname": "U.S. District Courts / Civil / Michigan / Michigan Western",
         "abbreviation": "W.D. Mich.",
         "abbreviation2": "WD Mich",
         "selectedname": "Michigan Western (Civil)",
@@ -6854,7 +6854,7 @@
     {
         "pguid": "urn:entity:jb-100000349",
         "name": "U.S. District Minnesota",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Minnesota",
+        "pathname": "U.S. District Courts / Civil / Minnesota",
         "abbreviation": "D. Minn.",
         "abbreviation2": "D Minn",
         "selectedname": "U.S. District Minnesota (Civil)",
@@ -6880,7 +6880,7 @@
     {
         "pguid": "urn:entity:jb-100017122",
         "name": "U.S. District Mississippi",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Mississippi",
+        "pathname": "U.S. District Courts / Civil / Mississippi (all)",
         "abbreviation": "Miss.",
         "abbreviation2": "Miss",
         "selectedname": "U.S. District Mississippi (Civil)",
@@ -6897,7 +6897,7 @@
     {
         "pguid": "urn:entity:jb-100000414",
         "name": "Mississippi Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Mississippi / Mississippi Northern",
+        "pathname": "U.S. District Courts / Civil / Mississippi / Mississippi Northern",
         "abbreviation": "N.D. Miss.",
         "abbreviation2": "ND Miss",
         "selectedname": "Mississippi Northern (Civil)",
@@ -6923,7 +6923,7 @@
     {
         "pguid": "urn:entity:jb-100000320",
         "name": "Mississippi Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Mississippi / Mississippi Southern",
+        "pathname": "U.S. District Courts / Civil / Mississippi / Mississippi Southern",
         "abbreviation": "S.D. Miss.",
         "abbreviation2": "SD Miss",
         "selectedname": "Mississippi Southern (Civil)",
@@ -6949,7 +6949,7 @@
     {
         "pguid": "urn:entity:jb-100017132",
         "name": "U.S. District Missouri",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Missouri",
+        "pathname": "U.S. District Courts / Civil / Missouri (all)",
         "abbreviation": "Mo.",
         "abbreviation2": "Mo",
         "selectedname": "U.S. District Missouri (Civil)",
@@ -6966,7 +6966,7 @@
     {
         "pguid": "urn:entity:jb-100000352",
         "name": "Missouri Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Missouri / Missouri Eastern",
+        "pathname": "U.S. District Courts / Civil / Missouri / Missouri Eastern",
         "abbreviation": "E.D. Mo.",
         "abbreviation2": "ED Mo",
         "selectedname": "Missouri Eastern (Civil)",
@@ -6992,7 +6992,7 @@
     {
         "pguid": "urn:entity:jb-100000442",
         "name": "Missouri Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Missouri / Missouri Western",
+        "pathname": "U.S. District Courts / Civil / Missouri / Missouri Western",
         "abbreviation": "W.D. Mo.",
         "abbreviation2": "WD Mo",
         "selectedname": "Missouri Western (Civil)",
@@ -7018,7 +7018,7 @@
     {
         "pguid": "urn:entity:jb-100000084",
         "name": "U.S. District Montana",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Montana",
+        "pathname": "U.S. District Courts / Civil / Montana",
         "abbreviation": "D. Mont.",
         "abbreviation2": "D Mont",
         "selectedname": "U.S. District Montana (Civil)",
@@ -7044,7 +7044,7 @@
     {
         "pguid": "urn:entity:jb-100000354",
         "name": "U.S. District Nebraska",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Nebraska",
+        "pathname": "U.S. District Courts / Civil / Nebraska",
         "abbreviation": "D. Neb.",
         "abbreviation2": "D Neb",
         "selectedname": "U.S. District Nebraska (Civil)",
@@ -7070,7 +7070,7 @@
     {
         "pguid": "urn:entity:jb-100000457",
         "name": "U.S. District Nevada",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Nevada",
+        "pathname": "U.S. District Courts / Civil / Nevada",
         "abbreviation": "D. Nev.",
         "abbreviation2": "D Nev",
         "selectedname": "U.S. District Nevada (Civil)",
@@ -7096,7 +7096,7 @@
     {
         "pguid": "urn:entity:jb-100000379",
         "name": "U.S. District New Hampshire",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New Hampshire",
+        "pathname": "U.S. District Courts / Civil / New Hampshire",
         "abbreviation": "D.N.H.",
         "abbreviation2": "DNH",
         "selectedname": "U.S. District New Hampshire (Civil)",
@@ -7122,7 +7122,7 @@
     {
         "pguid": "urn:entity:jb-100000301",
         "name": "U.S. District New Jersey",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New Jersey",
+        "pathname": "U.S. District Courts / Civil / New Jersey",
         "abbreviation": "D.N.J.",
         "abbreviation2": "DNJ",
         "selectedname": "U.S. District New Jersey (Civil)",
@@ -7148,7 +7148,7 @@
     {
         "pguid": "urn:entity:jb-100000091",
         "name": "U.S. District New Mexico",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New Mexico",
+        "pathname": "U.S. District Courts / Civil / New Mexico",
         "abbreviation": "D.N.M.",
         "abbreviation2": "DNM",
         "selectedname": "U.S. District New Mexico (Civil)",
@@ -7174,7 +7174,7 @@
     {
         "pguid": "urn:entity:jb-100017123",
         "name": "U.S. District New York",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New York",
+        "pathname": "U.S. District Courts / Civil / New York (all)",
         "abbreviation": "N.Y.",
         "abbreviation2": "NY",
         "selectedname": "U.S. District New York (Civil)",
@@ -7191,7 +7191,7 @@
     {
         "pguid": "urn:entity:jb-100000385",
         "name": "New York Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New York / New York Eastern",
+        "pathname": "U.S. District Courts / Civil / New York / New York Eastern",
         "abbreviation": "E.D.N.Y.",
         "abbreviation2": "EDNY",
         "selectedname": "New York Eastern (Civil)",
@@ -7217,7 +7217,7 @@
     {
         "pguid": "urn:entity:jb-100000296",
         "name": "New York Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New York / New York Northern",
+        "pathname": "U.S. District Courts / Civil / New York / New York Northern",
         "abbreviation": "N.D.N.Y.",
         "abbreviation2": "NDNY",
         "selectedname": "New York Northern (Civil)",
@@ -7243,7 +7243,7 @@
     {
         "pguid": "urn:entity:jb-100000387",
         "name": "New York Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New York / New York Southern",
+        "pathname": "U.S. District Courts / Civil / New York / New York Southern",
         "abbreviation": "S.D.N.Y.",
         "abbreviation2": "SDNY",
         "selectedname": "New York Southern (Civil)",
@@ -7269,7 +7269,7 @@
     {
         "pguid": "urn:entity:jb-100000298",
         "name": "New York Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District New York / New York Western",
+        "pathname": "U.S. District Courts / Civil / New York / New York Western",
         "abbreviation": "W.D.N.Y.",
         "abbreviation2": "WDNY",
         "selectedname": "New York Western (Civil)",
@@ -7295,7 +7295,7 @@
     {
         "pguid": "urn:entity:jb-100017133",
         "name": "U.S. District North Carolina",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District North Carolina",
+        "pathname": "U.S. District Courts / Civil / North Carolina (all)",
         "abbreviation": "N.C.",
         "abbreviation2": "NC",
         "selectedname": "U.S. District North Carolina (Civil)",
@@ -7312,7 +7312,7 @@
     {
         "pguid": "urn:entity:jb-100000400",
         "name": "North Carolina Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District North Carolina / North Carolina Eastern",
+        "pathname": "U.S. District Courts / Civil / North Carolina / North Carolina Eastern",
         "abbreviation": "E.D.N.C.",
         "abbreviation2": "EDNC",
         "selectedname": "North Carolina Eastern (Civil)",
@@ -7338,7 +7338,7 @@
     {
         "pguid": "urn:entity:jb-100000309",
         "name": "North Carolina Middle",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District North Carolina / North Carolina Middle",
+        "pathname": "U.S. District Courts / Civil / North Carolina / North Carolina Middle",
         "abbreviation": "M.D.N.C.",
         "abbreviation2": "MDNC",
         "selectedname": "North Carolina Middle (Civil)",
@@ -7364,7 +7364,7 @@
     {
         "pguid": "urn:entity:jb-100000402",
         "name": "North Carolina Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District North Carolina / North Carolina Western",
+        "pathname": "U.S. District Courts / Civil / North Carolina / North Carolina Western",
         "abbreviation": "W.D.N.C.",
         "abbreviation2": "WDNC",
         "selectedname": "North Carolina Western (Civil)",
@@ -7390,7 +7390,7 @@
     {
         "pguid": "urn:entity:jb-100000443",
         "name": "U.S. District North Dakota",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District North Dakota",
+        "pathname": "U.S. District Courts / Civil / North Dakota (all)",
         "abbreviation": "D.N.D.",
         "abbreviation2": "DND",
         "selectedname": "U.S. District North Dakota (Civil)",
@@ -7416,7 +7416,7 @@
     {
         "pguid": "urn:entity:jb-100000086",
         "name": "U.S. District Northern Mariana Islands",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Northern Mariana Islands",
+        "pathname": "U.S. District Courts / Civil / Northern Mariana Islands",
         "abbreviation": "D.N. Mar. Is.",
         "abbreviation2": "DN Mar Is",
         "selectedname": "U.S. District Northern Mariana Islands (Civil)",
@@ -7442,7 +7442,7 @@
     {
         "pguid": "urn:entity:jb-100017142",
         "name": "U.S. District Ohio",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Ohio",
+        "pathname": "U.S. District Courts / Civil / Ohio (all)",
         "abbreviation": "Ohio",
         "abbreviation2": "Ohio",
         "selectedname": "U.S. District Ohio (Civil)",
@@ -7459,7 +7459,7 @@
     {
         "pguid": "urn:entity:jb-100000332",
         "name": "Ohio Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Ohio / Ohio Northern",
+        "pathname": "U.S. District Courts / Civil / Ohio / Ohio Northern",
         "abbreviation": "N.D. Ohio",
         "abbreviation2": "ND Ohio",
         "selectedname": "Ohio Northern (Civil)",
@@ -7485,7 +7485,7 @@
     {
         "pguid": "urn:entity:jb-100000423",
         "name": "Ohio Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Ohio / Ohio Southern",
+        "pathname": "U.S. District Courts / Civil / Ohio / Ohio Southern",
         "abbreviation": "S.D. Ohio",
         "abbreviation2": "SD Ohio",
         "selectedname": "Ohio Southern (Civil)",
@@ -7511,7 +7511,7 @@
     {
         "pguid": "urn:entity:jb-100019836",
         "name": "U.S. District Oklahoma",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Oklahoma",
+        "pathname": "U.S. District Courts / Civil / Oklahoma (all)",
         "abbreviation": "Okla.",
         "abbreviation2": "Okla",
         "selectedname": "U.S. District Oklahoma (Civil)",
@@ -7528,7 +7528,7 @@
     {
         "pguid": "urn:entity:jb-100000094",
         "name": "Oklahoma Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Oklahoma / Oklahoma Eastern",
+        "pathname": "U.S. District Courts / Civil / Oklahoma / Oklahoma Eastern",
         "abbreviation": "E.D. Okla.",
         "abbreviation2": "ED Okla",
         "selectedname": "Oklahoma Eastern (Civil)",
@@ -7554,7 +7554,7 @@
     {
         "pguid": "urn:entity:jb-100000467",
         "name": "Oklahoma Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Oklahoma / Oklahoma Northern",
+        "pathname": "U.S. District Courts / Civil / Oklahoma / Oklahoma Northern",
         "abbreviation": "N.D. Okla.",
         "abbreviation2": "ND Okla",
         "selectedname": "Oklahoma Northern (Civil)",
@@ -7580,7 +7580,7 @@
     {
         "pguid": "urn:entity:jb-100000095",
         "name": "Oklahoma Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Oklahoma / Oklahoma Western",
+        "pathname": "U.S. District Courts / Civil / Oklahoma / Oklahoma Western",
         "abbreviation": "W.D. Okla.",
         "abbreviation2": "WD Okla",
         "selectedname": "Oklahoma Western (Civil)",
@@ -7606,7 +7606,7 @@
     {
         "pguid": "urn:entity:jb-100000459",
         "name": "U.S. District Oregon",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Oregon",
+        "pathname": "U.S. District Courts / Civil / Oregon",
         "abbreviation": "D. Or.",
         "abbreviation2": "D Or",
         "selectedname": "U.S. District Oregon (Civil)",
@@ -7632,7 +7632,7 @@
     {
         "pguid": "urn:entity:jb-100017143",
         "name": "U.S. District Pennsylvania",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Pennsylvania",
+        "pathname": "U.S. District Courts / Civil / Pennsylvania (all)",
         "abbreviation": "Pa.",
         "abbreviation2": "Pa",
         "selectedname": "U.S. District Pennsylvania (Civil)",
@@ -7649,7 +7649,7 @@
     {
         "pguid": "urn:entity:jb-100000303",
         "name": "Pennsylvania Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Pennsylvania / Pennsylvania Eastern",
+        "pathname": "U.S. District Courts / Civil / Pennsylvania / Pennsylvania Eastern",
         "abbreviation": "E.D. Pa.",
         "abbreviation2": "ED Pa",
         "selectedname": "Pennsylvania Eastern (Civil)",
@@ -7675,7 +7675,7 @@
     {
         "pguid": "urn:entity:jb-100000393",
         "name": "Pennsylvania Middle",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Pennsylvania / Pennsylvania Middle",
+        "pathname": "U.S. District Courts / Civil / Pennsylvania / Pennsylvania Middle",
         "abbreviation": "M.D. Pa.",
         "abbreviation2": "MD Pa",
         "selectedname": "Pennsylvania Middle (Civil)",
@@ -7701,7 +7701,7 @@
     {
         "pguid": "urn:entity:jb-100000305",
         "name": "Pennsylvania Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Pennsylvania / Pennsylvania Western",
+        "pathname": "U.S. District Courts / Civil / Pennsylvania / Pennsylvania Western",
         "abbreviation": "W.D. Pa.",
         "abbreviation2": "WD Pa",
         "selectedname": "Pennsylvania Western (Civil)",
@@ -7727,7 +7727,7 @@
     {
         "pguid": "urn:entity:jb-100000381",
         "name": "U.S. District Puerto Rico",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Puerto Rico",
+        "pathname": "U.S. District Courts / Civil / Puerto Rico",
         "abbreviation": "D.P.R.",
         "abbreviation2": "DPR",
         "selectedname": "U.S. District Puerto Rico (Civil)",
@@ -7753,7 +7753,7 @@
     {
         "pguid": "urn:entity:jb-100000292",
         "name": "U.S. District Rhode Island",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Rhode Island",
+        "pathname": "U.S. District Courts / Civil / Rhode Island",
         "abbreviation": "D.R.I.",
         "abbreviation2": "DRI",
         "selectedname": "U.S. District Rhode Island (Civil)",
@@ -7779,7 +7779,7 @@
     {
         "pguid": "urn:entity:jb-100000311",
         "name": "U.S. District South Carolina",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District South Carolina",
+        "pathname": "U.S. District Courts / Civil / South Carolina",
         "abbreviation": "D.S.C.",
         "abbreviation2": "DSC",
         "selectedname": "U.S. District South Carolina (Civil)",
@@ -7805,7 +7805,7 @@
     {
         "pguid": "urn:entity:jb-100000356",
         "name": "U.S. District South Dakota",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District South Dakota",
+        "pathname": "U.S. District Courts / Civil / South Dakota",
         "abbreviation": "D.S.D.",
         "abbreviation2": "DSD",
         "selectedname": "U.S. District South Dakota (Civil)",
@@ -7831,7 +7831,7 @@
     {
         "pguid": "urn:entity:jb-100017125",
         "name": "U.S. District Tennessee",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Tennessee",
+        "pathname": "U.S. District Courts / Civil / Tennessee (all)",
         "abbreviation": "Tenn.",
         "abbreviation2": "Tenn",
         "selectedname": "U.S. District Tennessee (Civil)",
@@ -7848,7 +7848,7 @@
     {
         "pguid": "urn:entity:jb-100000426",
         "name": "Tennessee Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Tennessee / Tennessee Eastern",
+        "pathname": "U.S. District Courts / Civil / Tennessee / Tennessee Eastern",
         "abbreviation": "E.D. Tenn.",
         "abbreviation2": "ED Tenn",
         "selectedname": "Tennessee Eastern (Civil)",
@@ -7874,7 +7874,7 @@
     {
         "pguid": "urn:entity:jb-100000334",
         "name": "Tennessee Middle",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Tennessee / Tennessee Middle",
+        "pathname": "U.S. District Courts / Civil / Tennessee / Tennessee Middle",
         "abbreviation": "M.D. Tenn.",
         "abbreviation2": "MD Tenn",
         "selectedname": "Tennessee Middle (Civil)",
@@ -7900,7 +7900,7 @@
     {
         "pguid": "urn:entity:jb-100000428",
         "name": "Tennessee Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Tennessee / Tennessee Western",
+        "pathname": "U.S. District Courts / Civil / Tennessee / Tennessee Western",
         "abbreviation": "W.D. Tenn.",
         "abbreviation2": "WD Tenn",
         "selectedname": "Tennessee Western (Civil)",
@@ -7926,7 +7926,7 @@
     {
         "pguid": "urn:entity:jb-100017146",
         "name": "U.S. District Texas",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Texas",
+        "pathname": "U.S. District Courts / Civil / Texas (all)",
         "abbreviation": "Tex.",
         "abbreviation2": "Tex",
         "selectedname": "U.S. District Texas (Civil)",
@@ -7943,7 +7943,7 @@
     {
         "pguid": "urn:entity:jb-100000322",
         "name": "Texas Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Texas / Texas Eastern",
+        "pathname": "U.S. District Courts / Civil / Texas / Texas Eastern",
         "abbreviation": "E.D. Tex.",
         "abbreviation2": "ED Tex",
         "selectedname": "Texas Eastern (Civil)",
@@ -7969,7 +7969,7 @@
     {
         "pguid": "urn:entity:jb-100000415",
         "name": "Texas Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Texas / Texas Northern",
+        "pathname": "U.S. District Courts / Civil / Texas / Texas Northern",
         "abbreviation": "N.D. Tex.",
         "abbreviation2": "ND Tex",
         "selectedname": "Texas Northern (Civil)",
@@ -7995,7 +7995,7 @@
     {
         "pguid": "urn:entity:jb-100000324",
         "name": "Texas Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Texas / Texas Southern",
+        "pathname": "U.S. District Courts / Civil / Texas / Texas Southern",
         "abbreviation": "S.D. Tex.",
         "abbreviation2": "SD Tex",
         "selectedname": "Texas Southern (Civil)",
@@ -8021,7 +8021,7 @@
     {
         "pguid": "urn:entity:jb-100000418",
         "name": "Texas Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Texas / Texas Western",
+        "pathname": "U.S. District Courts / Civil / Texas / Texas Western",
         "abbreviation": "W.D. Tex.",
         "abbreviation2": "WD Tex",
         "selectedname": "Texas Western (Civil)",
@@ -8047,7 +8047,7 @@
     {
         "pguid": "urn:entity:jb-100000470",
         "name": "U.S. District Utah",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Utah",
+        "pathname": "U.S. District Courts / Civil / Utah",
         "abbreviation": "D. Utah",
         "abbreviation2": "D Utah",
         "selectedname": "U.S. District Utah (Civil)",
@@ -8073,7 +8073,7 @@
     {
         "pguid": "urn:entity:jb-100000389",
         "name": "U.S. District Vermont",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Vermont",
+        "pathname": "U.S. District Courts / Civil / Vermont",
         "abbreviation": "D. Vt.",
         "abbreviation2": "D Vt",
         "selectedname": "U.S. District Vermont (Civil)",
@@ -8099,7 +8099,7 @@
     {
         "pguid": "urn:entity:jb-100000395",
         "name": "U.S. District Virgin Islands",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Virgin Islands",
+        "pathname": "U.S. District Courts / Civil / Virgin Islands",
         "abbreviation": "D.V.I.",
         "abbreviation2": "DVI",
         "selectedname": "U.S. District Virgin Islands (Civil)",
@@ -8125,7 +8125,7 @@
     {
         "pguid": "urn:entity:jb-100017147",
         "name": "U.S. District Virginia",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Virginia",
+        "pathname": "U.S. District Courts / Civil / Virginia (all)",
         "abbreviation": "Va.",
         "abbreviation2": "Va",
         "selectedname": "U.S. District Virginia (Civil)",
@@ -8142,7 +8142,7 @@
     {
         "pguid": "urn:entity:jb-100000313",
         "name": "Virginia Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Virginia / Virginia Eastern",
+        "pathname": "U.S. District Courts / Civil / Virginia / Virginia Eastern",
         "abbreviation": "E.D. Va.",
         "abbreviation2": "ED Va",
         "selectedname": "Virginia Eastern (Civil)",
@@ -8168,7 +8168,7 @@
     {
         "pguid": "urn:entity:jb-100000403",
         "name": "Virginia Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Virginia / Virginia Western",
+        "pathname": "U.S. District Courts / Civil / Virginia / Virginia Western",
         "abbreviation": "W.D. Va.",
         "abbreviation2": "WD Va",
         "selectedname": "Virginia Western (Civil)",
@@ -8194,7 +8194,7 @@
     {
         "pguid": "urn:entity:jb-100017126",
         "name": "U.S. District Washington",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Washington",
+        "pathname": "U.S. District Courts / Civil / Washington (all)",
         "abbreviation": "Wash.",
         "abbreviation2": "Wash",
         "selectedname": "U.S. District Washington (Civil)",
@@ -8211,7 +8211,7 @@
     {
         "pguid": "urn:entity:jb-100000461",
         "name": "Washington Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Washington / Washington Eastern",
+        "pathname": "U.S. District Courts / Civil / Washington / Washington Eastern",
         "abbreviation": "E.D. Wash.",
         "abbreviation2": "ED Wash",
         "selectedname": "Washington Eastern (Civil)",
@@ -8237,7 +8237,7 @@
     {
         "pguid": "urn:entity:jb-100000088",
         "name": "Washington Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Washington / Washington Western",
+        "pathname": "U.S. District Courts / Civil / Washington / Washington Western",
         "abbreviation": "W.D. Wash.",
         "abbreviation2": "WD Wash",
         "selectedname": "Washington Western (Civil)",
@@ -8263,7 +8263,7 @@
     {
         "pguid": "urn:entity:jb-100017149",
         "name": "U.S. District West Virginia",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District West Virginia",
+        "pathname": "U.S. District Courts / Civil / West Virginia (all)",
         "abbreviation": "W. Va.",
         "abbreviation2": "W Va",
         "selectedname": "U.S. District West Virginia (Civil)",
@@ -8280,7 +8280,7 @@
     {
         "pguid": "urn:entity:jb-100000405",
         "name": "West Virginia Northern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District West Virginia / West Virginia Northern",
+        "pathname": "U.S. District Courts / Civil / West Virginia / West Virginia Northern",
         "abbreviation": "N.D.W. Va.",
         "abbreviation2": "NDW Va",
         "selectedname": "West Virginia Northern (Civil)",
@@ -8306,7 +8306,7 @@
     {
         "pguid": "urn:entity:jb-100000315",
         "name": "West Virginia Southern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District West Virginia / West Virginia Southern",
+        "pathname": "U.S. District Courts / Civil / West Virginia / West Virginia Southern",
         "abbreviation": "S.D.W. Va.",
         "abbreviation2": "SDW Va",
         "selectedname": "West Virginia Southern (Civil)",
@@ -8332,7 +8332,7 @@
     {
         "pguid": "urn:entity:jb-100017127",
         "name": "U.S. District Wisconsin",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Wisconsin",
+        "pathname": "U.S. District Courts / Civil / Wisconsin (all)",
         "abbreviation": "Wis.",
         "abbreviation2": "Wis",
         "selectedname": "U.S. District Wisconsin (Civil)",
@@ -8349,7 +8349,7 @@
     {
         "pguid": "urn:entity:jb-100000434",
         "name": "Wisconsin Eastern",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Wisconsin / Wisconsin Eastern",
+        "pathname": "U.S. District Courts / Civil / Wisconsin / Wisconsin Eastern",
         "abbreviation": "E.D. Wis.",
         "abbreviation2": "ED Wis",
         "selectedname": "Wisconsin Eastern (Civil)",
@@ -8375,7 +8375,7 @@
     {
         "pguid": "urn:entity:jb-100000344",
         "name": "Wisconsin Western",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Wisconsin / Wisconsin Western",
+        "pathname": "U.S. District Courts / Civil / Wisconsin / Wisconsin Western",
         "abbreviation": "W.D. Wis.",
         "abbreviation2": "WD Wis",
         "selectedname": "Wisconsin Western (Civil)",
@@ -8401,7 +8401,7 @@
     {
         "pguid": "urn:entity:jb-100000098",
         "name": "U.S. District Wyoming",
-        "pathname": "United States / U.S. District Courts / Civil / U.S. District Wyoming",
+        "pathname": "U.S. District Courts / Civil / Wyoming",
         "abbreviation": "D. Wyo.",
         "abbreviation2": "D Wyo",
         "selectedname": "U.S. District Wyoming (Civil)",
@@ -8427,7 +8427,7 @@
     {
         "pguid": "urn:entity:jb-500000107",
         "name": "U.S. International Trade Commission",
-        "pathname": "United States / U.S. International Trade Commission",
+        "pathname": "U.S. International Trade Commission",
         "abbreviation": "Ct. Intl. Trade",
         "abbreviation2": "Ct Intl Trade",
         "code": "62c1e7beab2a12f17eca1211c4ef6958",
@@ -8450,7 +8450,7 @@
     {
         "pguid": "urn:entity:jb-100000271",
         "name": "U.S. Supreme Court",
-        "pathname": "United States / U.S. Supreme Court",
+        "pathname": "U.S. Supreme Court",
         "abbreviation": "U.S.",
         "abbreviation2": "US",
         "code": "5e247f059115ab70cafd016b583a78da",
@@ -8471,7 +8471,7 @@
     {
         "pguid": "urn:entity:jb-100004404",
         "name": "U.S. Tax Court",
-        "pathname": "United States / U.S. Tax Court",
+        "pathname": "U.S. Tax Court",
         "abbreviation": "Tax",
         "abbreviation2": "Tax",
         "code": "f9ed1fa232a4cd0eb4b69f56638e7d96",
@@ -8493,7 +8493,7 @@
     {
         "pguid": "urn:entity:jb-500000103",
         "name": "U.S. Patent Trial and Appeals Board",
-        "pathname": "United States / U.S. Patent Trial and Appeals Board",
+        "pathname": "U.S. Patent Trial and Appeals Board",
         "abbreviation": "Cust. & Pat. App",
         "abbreviation2": "Cust & Pat App",
         "code": "973bd6e6d351e6f15744eae053cc45d0",
@@ -8516,7 +8516,7 @@
     {
         "pguid": "urn:entity:geob-103051983",
         "name": "Alabama",
-        "pathname": "Alabama",
+        "pathname": "Alabama (all)",
         "code": "3ca73dbc989547ecd5623d76901dae02",
         "isonline": true,
         "score": 1
@@ -8524,7 +8524,7 @@
     {
         "pguid": "urn:propertyValueItem:F8DCE9B11E2542148B370215109D7A1B",
         "name": "Federal",
-        "pathname": "Alabama / Federal",
+        "pathname": "Alabama / Federal (all)",
         "selectedname": "Alabama Federal",
         "code": "3a0317cb3a40b81fc07ea6c39c05c9a2",
         "isonline": true,
@@ -8534,7 +8534,7 @@
     {
         "pguid": "urn:propertyValueItem:72D856573FCE4725812C4C3F5056E5D7",
         "name": "State",
-        "pathname": "Alabama / State",
+        "pathname": "Alabama / State (all)",
         "selectedname": "Alabama State",
         "code": "99961904f96f2bfdcd729d33510f1b9b",
         "score": 1,
@@ -8561,7 +8561,7 @@
     {
         "pguid": "urn:entity:geob-102943703",
         "name": "Alaska",
-        "pathname": "Alaska",
+        "pathname": "Alaska (all)",
         "code": "892b963af3d3bcf302cacf253e8ff780",
         "isonline": true,
         "score": 1
@@ -8569,7 +8569,7 @@
     {
         "pguid": "urn:propertyValueItem:F6AD56418D2C42C8BBBFF289044EEEDE",
         "name": "Federal",
-        "pathname": "Alaska / Federal",
+        "pathname": "Alaska / Federal (all)",
         "selectedname": "Alaska Federal",
         "code": "b0ce9c719e05c26074695e6bf8df66e3",
         "isonline": true,
@@ -8579,7 +8579,7 @@
     {
         "pguid": "urn:propertyValueItem:42D464A72E8249D182B42A2F70478A82",
         "name": "State",
-        "pathname": "Alaska / State",
+        "pathname": "Alaska / State (all)",
         "selectedname": "Alaska State",
         "code": "ff87cba00abfa5495ff04a1750aaa3b3",
         "isonline": true,
@@ -8589,7 +8589,7 @@
     {
         "pguid": "urn:propertyValueItem:8AA8F08CC29D49A3A89FB186536CB08D",
         "name": "Alaska District & Superior Court",
-        "pathname": "Alaska / State / Alaska District & Superior Court",
+        "pathname": "Alaska / State / Alaska District & Superior Court (all)",
         "code": "8204acc1ed602aa4e8c95c9297ed37d9",
         "isonline": true,
         "score": 1,
@@ -8913,7 +8913,7 @@
     {
         "pguid": "urn:entity:geob-102916637",
         "name": "Arizona",
-        "pathname": "Arizona",
+        "pathname": "Arizona (all)",
         "code": "f4220558f178a46ae2a53c79891e57f9",
         "isonline": true,
         "score": 1
@@ -8921,7 +8921,7 @@
     {
         "pguid": "urn:propertyValueItem:1BFC5D802D1F4FB080425994E3BC4D4F",
         "name": "Federal",
-        "pathname": "Arizona / Federal",
+        "pathname": "Arizona / Federal (all)",
         "selectedname": "Arizona Federal",
         "code": "c647b9bb06c73b457eae4741dfc520bd",
         "isonline": true,
@@ -8931,7 +8931,7 @@
     {
         "pguid": "urn:propertyValueItem:0C076B0D7989498FAA9DD4081339DAAF",
         "name": "State",
-        "pathname": "Arizona / State",
+        "pathname": "Arizona / State (all)",
         "selectedname": "Arizona State",
         "code": "1d9e81069df447364aaa619664e7cf47",
         "isonline": true,
@@ -8951,7 +8951,7 @@
     {
         "pguid": "urn:entity:jb-100004543",
         "name": "Arizona Superior Court",
-        "pathname": "Arizona / State / Arizona Superior Court",
+        "pathname": "Arizona / State / Arizona Superior Court (all)",
         "abbreviation": "Ariz.",
         "abbreviation2": "Ariz",
         "code": "dc35207f00286d0db8cb82f2db3799cc",
@@ -8982,7 +8982,7 @@
     {
         "pguid": "urn:entity:geob-102936119",
         "name": "Arkansas",
-        "pathname": "Arkansas",
+        "pathname": "Arkansas (all)",
         "code": "ed93dd3edc2616ad363bf9fa13079034",
         "isonline": true,
         "score": 1
@@ -8990,7 +8990,7 @@
     {
         "pguid": "urn:propertyValueItem:AC42933A78134406BC2F5EB13ED4A47E",
         "name": "Federal",
-        "pathname": "Arkansas / Federal",
+        "pathname": "Arkansas / Federal (all)",
         "selectedname": "Arkansas Federal",
         "code": "13fda12533fcb4e09cac83dc9034a48c",
         "isonline": true,
@@ -9000,7 +9000,7 @@
     {
         "pguid": "urn:propertyValueItem:1D596C6648BF4E16A86B77844369832F",
         "name": "State",
-        "pathname": "Arkansas / State",
+        "pathname": "Arkansas / State (all)",
         "selectedname": "Arkansas State",
         "code": "f2a6cfeffa1ff91ca8b5e64e15b1ef26",
         "isonline": true,
@@ -9010,7 +9010,7 @@
     {
         "pguid": "urn:entity:jb-100007909",
         "name": "Arkansas Circuit Court",
-        "pathname": "Arkansas / State / Arkansas Circuit Court",
+        "pathname": "Arkansas / State / Arkansas Circuit Court (all)",
         "code": "9ebd683ba8151da72efa00961733f6d8",
         "isonline": true,
         "score": 1,
